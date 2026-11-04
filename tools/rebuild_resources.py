@@ -45,7 +45,7 @@ def rebuild_fallback(game):
     for (a, b, n), zh in sorted(rows.items()):
         escaped = ''.join(f'\\x{c:02x}' for c in zh.encode('utf-8'))
         out += f'{{{a}u,{b}u,{n}u,"{escaped}"}},\n'
-    (ROOT / 'native/fallback.h').write_text(out + '};\n', encoding='ascii')
+    (ROOT / 'native/fallback.h').write_text(out + '};\n', encoding='ascii', newline='\n')
     print(f'Rebuilt {len(rows)} cached-map fallback records')
 
 
@@ -77,7 +77,7 @@ def rebuild_font(source):
     rows = [(cp, round(widths[glyph][0] * 1000 / units)) for cp, glyph in sorted(font.getBestCmap().items()) if cp < 65536]
     header = '/* Generated from assets/Chinese.ttf; units normalized to 1000. */\nstatic const unsigned short metrics[][2]={\n'
     header += ',\n'.join('{%d,%d}' % row for row in rows) + '\n};\n'
-    (ROOT / 'native/metrics.h').write_text(header, encoding='ascii')
+    (ROOT / 'native/metrics.h').write_text(header, encoding='ascii', newline='\n')
     print('Font SHA256:', patcher.digest((ROOT / 'assets/Chinese.ttf').read_bytes()))
 
 

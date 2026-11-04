@@ -189,7 +189,9 @@ class TranslationDataTests(unittest.TestCase):
         meta = patcher.json_read(root / 'native/payload.json')
         self.assertEqual(patcher.digest((root / 'native/payload.bin').read_bytes()), meta['sha256'])
         for name, expected in meta['sources'].items():
-            self.assertEqual(patcher.digest((root / 'native' / name).read_bytes()), expected)
+            source = (root / 'native' / name).read_bytes()
+            self.assertNotIn(b'\r', source, 'Generated source must retain LF across checkouts')
+            self.assertEqual(patcher.digest(source), expected)
 
     def test_published_translation_counts_and_font_coverage(self):
         from fontTools.ttLib import TTFont

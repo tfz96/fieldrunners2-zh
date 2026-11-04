@@ -58,7 +58,7 @@ def main():
                 'sha256': hashlib.sha256(payload).hexdigest(), 'relocations': sorted(set(relocs)),
                 'sources': {name: hashlib.sha256((ROOT / name).read_bytes()).hexdigest()
                             for name in ['render.c', 'metrics.h', 'fallback.h']}}
-        (ROOT / 'payload.json').write_text(json.dumps(meta, indent=2) + '\n', encoding='utf-8')
+        (ROOT / 'payload.json').write_text(json.dumps(meta, indent=2) + '\n', encoding='utf-8', newline='\n')
         pe.close()
         print(f'Built {len(payload)} bytes, {len(set(relocs))} relocation entries')
 
