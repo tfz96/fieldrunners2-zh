@@ -1,0 +1,4937 @@
+[
+  {
+    "index": 0,
+    "key": "PauseText",
+    "zh": "已暂停"
+  },
+  {
+    "index": 1,
+    "key": "WaveNumber",
+    "zh": "第 %d / %d 波"
+  },
+  {
+    "index": 2,
+    "key": "NameText",
+    "zh": "名称"
+  },
+  {
+    "index": 3,
+    "key": "ScoreText",
+    "zh": "得分"
+  },
+  {
+    "index": 4,
+    "key": "SurvivalText",
+    "zh": "生存"
+  },
+  {
+    "index": 5,
+    "key": "TimeTrialText",
+    "zh": "限时挑战"
+  },
+  {
+    "index": 6,
+    "key": "SuddenDeathText",
+    "zh": "殊死坚守"
+  },
+  {
+    "index": 7,
+    "key": "BossText",
+    "zh": "首领"
+  },
+  {
+    "index": 8,
+    "key": "PuzzleText",
+    "zh": "解谜"
+  },
+  {
+    "index": 9,
+    "key": "MoneyText",
+    "zh": "资金"
+  },
+  {
+    "index": 10,
+    "key": "HealthText",
+    "zh": "生命"
+  },
+  {
+    "index": 11,
+    "key": "PauseLowerText",
+    "zh": "暂停"
+  },
+  {
+    "index": 12,
+    "key": "TowersText",
+    "zh": "防御塔"
+  },
+  {
+    "index": 13,
+    "key": "ItemsText",
+    "zh": "道具"
+  },
+  {
+    "index": 14,
+    "key": "WaveStart",
+    "zh": "敌军即将抵达……"
+  },
+  {
+    "index": 15,
+    "key": "PerfectText",
+    "zh": "完美防守"
+  },
+  {
+    "index": 16,
+    "key": "ComboText",
+    "zh": "连杀"
+  },
+  {
+    "index": 17,
+    "key": "MegaComboText",
+    "zh": "超级连杀"
+  },
+  {
+    "index": 18,
+    "key": "StarsText",
+    "zh": "星星"
+  },
+  {
+    "index": 19,
+    "key": "RunnersText",
+    "zh": "敌军"
+  },
+  {
+    "index": 20,
+    "key": "MegaCombosText",
+    "zh": "超级连杀"
+  },
+  {
+    "index": 21,
+    "key": "ReplayText",
+    "zh": "重玩"
+  },
+  {
+    "index": 22,
+    "key": "WorldMapText",
+    "zh": "世界地图"
+  },
+  {
+    "index": 23,
+    "key": "NextMissionText",
+    "zh": "新任务"
+  },
+  {
+    "index": 24,
+    "key": "CombosText",
+    "zh": "连杀"
+  },
+  {
+    "index": 25,
+    "key": "LevelText",
+    "zh": "等级"
+  },
+  {
+    "index": 26,
+    "key": "DPSText",
+    "zh": "每秒伤害"
+  },
+  {
+    "index": 27,
+    "key": "HitText",
+    "zh": "单次伤害"
+  },
+  {
+    "index": 28,
+    "key": "StrText",
+    "zh": "强度"
+  },
+  {
+    "index": 29,
+    "key": "AirstrikeMeterText",
+    "zh": "空袭"
+  },
+  {
+    "index": 30,
+    "key": "ObjectiveCompletedText",
+    "zh": "成功！"
+  },
+  {
+    "index": 31,
+    "key": "NewUnitText",
+    "zh": "新！"
+  },
+  {
+    "index": 32,
+    "key": "OptimizingTitleText",
+    "zh": "正在为这台高科技设备优化……"
+  },
+  {
+    "index": 33,
+    "key": "OptimizingDescriptionText",
+    "zh": "大约需要一分钟，只需进行一次。"
+  },
+  {
+    "index": 34,
+    "key": "OptimizingFlavorText",
+    "zh": "不妨趁现在来一场神清气爽的晨跑，"
+  },
+  {
+    "index": 35,
+    "key": "OptimizingFlavor2Text",
+    "zh": "或者造一台征服世界的机器？"
+  },
+  {
+    "index": 36,
+    "key": "DefaultPlayerName",
+    "zh": "玩家"
+  },
+  {
+    "index": 37,
+    "key": "RankText",
+    "zh": "排名"
+  },
+  {
+    "index": 38,
+    "key": "MapText",
+    "zh": "地图"
+  },
+  {
+    "index": 39,
+    "key": "StarText",
+    "zh": "星星"
+  },
+  {
+    "index": 40,
+    "key": "ScoreText",
+    "zh": "得分"
+  },
+  {
+    "index": 41,
+    "key": "RoundText",
+    "zh": "波次 "
+  },
+  {
+    "index": 42,
+    "key": "UserText",
+    "zh": "用户"
+  },
+  {
+    "index": 43,
+    "key": "MaxText",
+    "zh": "满级"
+  },
+  {
+    "index": 44,
+    "key": "Fieldrunners2Text",
+    "zh": "坚守阵地 2"
+  },
+  {
+    "index": 45,
+    "key": "OptionsText",
+    "zh": "设置"
+  },
+  {
+    "index": 46,
+    "key": "DifficultyText",
+    "zh": "难度"
+  },
+  {
+    "index": 47,
+    "key": "EasyText",
+    "zh": "休闲"
+  },
+  {
+    "index": 48,
+    "key": "MediumText",
+    "zh": "困难"
+  },
+  {
+    "index": 49,
+    "key": "HardText",
+    "zh": "英雄"
+  },
+  {
+    "index": 50,
+    "key": "GridText",
+    "zh": "网格"
+  },
+  {
+    "index": 51,
+    "key": "MusicText",
+    "zh": "音乐"
+  },
+  {
+    "index": 52,
+    "key": "SoundsText",
+    "zh": "音效"
+  },
+  {
+    "index": 53,
+    "key": "TipsText",
+    "zh": "提示"
+  },
+  {
+    "index": 54,
+    "key": "VibrationText",
+    "zh": "振动"
+  },
+  {
+    "index": 55,
+    "key": "DoneText",
+    "zh": "完成"
+  },
+  {
+    "index": 56,
+    "key": "OnText",
+    "zh": "开"
+  },
+  {
+    "index": 57,
+    "key": "ResetText",
+    "zh": "重置"
+  },
+  {
+    "index": 58,
+    "key": "GridOptionOffText",
+    "zh": "关闭"
+  },
+  {
+    "index": 59,
+    "key": "GridOptionAutoText",
+    "zh": "拖动时"
+  },
+  {
+    "index": 60,
+    "key": "GridOptionFullText",
+    "zh": "始终显示"
+  },
+  {
+    "index": 61,
+    "key": "SocialTitle",
+    "zh": "分享喜悦"
+  },
+  {
+    "index": 62,
+    "key": "GetFR1Text",
+    "zh": "购买前作"
+  },
+  {
+    "index": 63,
+    "key": "Rate5StarsText",
+    "zh": "请为我们评分！"
+  },
+  {
+    "index": 64,
+    "key": "LikeUsText",
+    "zh": "为我们点赞！"
+  },
+  {
+    "index": 65,
+    "key": "BragText",
+    "zh": "秀出战绩！"
+  },
+  {
+    "index": 66,
+    "key": "FreeCoinsText",
+    "zh": "免费金币！"
+  },
+  {
+    "index": 67,
+    "key": "ShareText",
+    "zh": "分享！"
+  },
+  {
+    "index": 68,
+    "key": "DailyBonusText",
+    "zh": "每日奖励"
+  },
+  {
+    "index": 69,
+    "key": "TapToContinue",
+    "zh": "点击继续"
+  },
+  {
+    "index": 70,
+    "key": "YesText",
+    "zh": "是"
+  },
+  {
+    "index": 71,
+    "key": "NoText",
+    "zh": "否"
+  },
+  {
+    "index": 72,
+    "key": "CreateText",
+    "zh": "创建"
+  },
+  {
+    "index": 73,
+    "key": "CancelText",
+    "zh": "取消"
+  },
+  {
+    "index": 74,
+    "key": "ContinueText",
+    "zh": "继续"
+  },
+  {
+    "index": 75,
+    "key": "RestartText",
+    "zh": "重新开始"
+  },
+  {
+    "index": 76,
+    "key": "LoadingText",
+    "zh": "正在加载……"
+  },
+  {
+    "index": 77,
+    "key": "OKText",
+    "zh": "确定"
+  },
+  {
+    "index": 78,
+    "key": "WavesText",
+    "zh": "波"
+  },
+  {
+    "index": 79,
+    "key": "ItemText",
+    "zh": "道具"
+  },
+  {
+    "index": 80,
+    "key": "AttributesText",
+    "zh": "属性："
+  },
+  {
+    "index": 81,
+    "key": "DescriptionText",
+    "zh": "说明："
+  },
+  {
+    "index": 82,
+    "key": "TapToCollect",
+    "zh": "点击领取"
+  },
+  {
+    "index": 83,
+    "key": "ResumeText",
+    "zh": "继续游戏"
+  },
+  {
+    "index": 84,
+    "key": "NewMissionText",
+    "zh": "新地图"
+  },
+  {
+    "index": 85,
+    "key": "ScoresText",
+    "zh": "排行榜"
+  },
+  {
+    "index": 86,
+    "key": "CardsText",
+    "zh": "卡牌"
+  },
+  {
+    "index": 87,
+    "key": "LocalScoresText",
+    "zh": "本地排行"
+  },
+  {
+    "index": 88,
+    "key": "GlobalScoresText",
+    "zh": "全球排行"
+  },
+  {
+    "index": 89,
+    "key": "UnlockTowerText",
+    "zh": "获得新防御塔！"
+  },
+  {
+    "index": 90,
+    "key": "UnlockMapText",
+    "zh": "新任务已解锁！"
+  },
+  {
+    "index": 91,
+    "key": "UnlockAirstrikeText",
+    "zh": "呼叫支援——"
+  },
+  {
+    "index": 92,
+    "key": "UnlockItemSlotText",
+    "zh": "带上道具，大显身手！"
+  },
+  {
+    "index": 93,
+    "key": "UnlockNewItemSlotText",
+    "zh": "现在可以使用道具了！"
+  },
+  {
+    "index": 94,
+    "key": "UnlockItemText",
+    "zh": "获得新道具！"
+  },
+  {
+    "index": 95,
+    "key": "AirstrikeText",
+    "zh": "空袭！"
+  },
+  {
+    "index": 96,
+    "key": "ItemSlotText",
+    "zh": "获得道具栏位！"
+  },
+  {
+    "index": 97,
+    "key": "PlayText",
+    "zh": "开始游戏"
+  },
+  {
+    "index": 98,
+    "key": "ResumePromptText",
+    "zh": "上次的任务尚未结束，是否继续？"
+  },
+  {
+    "index": 99,
+    "key": "ResumeShortPromptText",
+    "zh": "任务进行中"
+  },
+  {
+    "index": 100,
+    "key": "QuitNoSaveText",
+    "zh": "退出"
+  },
+  {
+    "index": 101,
+    "key": "QuitText",
+    "zh": "保存并退出"
+  },
+  {
+    "index": 102,
+    "key": "QuitAppText",
+    "zh": "退出《坚守阵地 2》？"
+  },
+  {
+    "index": 103,
+    "key": "QuitAppPromptText",
+    "zh": "确定要退出游戏吗？"
+  },
+  {
+    "index": 104,
+    "key": "RestartPromptText",
+    "zh": "重新开始本次任务？"
+  },
+  {
+    "index": 105,
+    "key": "QuitPromptText",
+    "zh": "问题出在任务，不是你！换个任务试试？"
+  },
+  {
+    "index": 106,
+    "key": "NoGatlingText",
+    "zh": "没带加特林？"
+  },
+  {
+    "index": 107,
+    "key": "NoGatlingPromptText",
+    "zh": "你忘了老朋友加特林塔，确定不带它就出发吗？"
+  },
+  {
+    "index": 108,
+    "key": "NoItemsText",
+    "zh": "不带道具？"
+  },
+  {
+    "index": 109,
+    "key": "NoItemsPromptText",
+    "zh": "不带道具就挑战英雄难度？这难度可不是披件斗篷就能应付的……"
+  },
+  {
+    "index": 110,
+    "key": "FullTowersText",
+    "zh": "防御塔已满"
+  },
+  {
+    "index": 111,
+    "key": "FullTowersPromptText",
+    "zh": "栏位已满！点击下方栏位卸下一些防御塔。"
+  },
+  {
+    "index": 112,
+    "key": "FullItemsText",
+    "zh": "道具已满"
+  },
+  {
+    "index": 113,
+    "key": "FullItemsPromptText",
+    "zh": "栏位已满！点击下方栏位卸下一些道具。"
+  },
+  {
+    "index": 114,
+    "key": "StarsInfoTitle",
+    "zh": "你需要星星！"
+  },
+  {
+    "index": 115,
+    "key": "StarsInfoDescription",
+    "zh": "星星可以解锁新防御塔！以更高难度完成任务，就能获得更多星星。"
+  },
+  {
+    "index": 116,
+    "key": "CoinsInfoTitle",
+    "zh": "你需要金币！"
+  },
+  {
+    "index": 117,
+    "key": "CoinsInfoDescription",
+    "zh": "金币可以购买道具和特殊防御塔！挑战更高难度，赢取更多金币。"
+  },
+  {
+    "index": 118,
+    "key": "MoreStarsText",
+    "zh": "获取更多星星。"
+  },
+  {
+    "index": 119,
+    "key": "SorryText",
+    "zh": "抱歉"
+  },
+  {
+    "index": 120,
+    "key": "CantUseText",
+    "zh": "本地图无法使用该道具。"
+  },
+  {
+    "index": 121,
+    "key": "SignInGameCenterText",
+    "zh": "想查看全球排行？请登录 Game Center。"
+  },
+  {
+    "index": 122,
+    "key": "ReleaseToRefreshText",
+    "zh": "松开刷新……"
+  },
+  {
+    "index": 123,
+    "key": "NAText",
+    "zh": "暂无"
+  },
+  {
+    "index": 124,
+    "key": "NewTowerText",
+    "zh": "新！"
+  },
+  {
+    "index": 125,
+    "key": "NextMapText",
+    "zh": "下一关"
+  },
+  {
+    "index": 126,
+    "key": "NewHighScoreText",
+    "zh": "刷新最高纪录！"
+  },
+  {
+    "index": 127,
+    "key": "MapTowersText",
+    "zh": "地图预设"
+  },
+  {
+    "index": 128,
+    "key": "YourTowersText",
+    "zh": "我的防御塔"
+  },
+  {
+    "index": 129,
+    "key": "DeleteProfileText",
+    "zh": "重置此 Game Center 账号的全部《坚守阵地 2》进度？此操作无法撤销。"
+  },
+  {
+    "index": 130,
+    "key": "DeleteProfileFreeText",
+    "zh": "重置《坚守阵地 2 免费版》的全部进度？此操作无法撤销。"
+  },
+  {
+    "index": 131,
+    "key": "DeleteProfileText2",
+    "zh": "真的要从头开始？你也可以选择“否”，切换 Game Center 账号另开游戏。"
+  },
+  {
+    "index": 132,
+    "key": "DeleteProfileFreeText2",
+    "zh": "真的要从头开始？或许现在正适合体验完整版……"
+  },
+  {
+    "index": 133,
+    "key": "DeleteText",
+    "zh": "重置游戏？"
+  },
+  {
+    "index": 134,
+    "key": "ReallyDeleteText",
+    "zh": "真的确定？"
+  },
+  {
+    "index": 135,
+    "key": "ResetProgressionText",
+    "zh": "重置进度"
+  },
+  {
+    "index": 136,
+    "key": "TowerUnavailable",
+    "zh": "尚未解锁"
+  },
+  {
+    "index": 137,
+    "key": "TowerUnavailableText",
+    "zh": "收集更多星星或金币，即可解锁这座防御塔。"
+  },
+  {
+    "index": 138,
+    "key": "AlreadyEquippedLabel",
+    "zh": "提示"
+  },
+  {
+    "index": 139,
+    "key": "AlreadyEquippedText",
+    "zh": "这件武器已经装备了。"
+  },
+  {
+    "index": 140,
+    "key": "VersionText",
+    "zh": "版本"
+  },
+  {
+    "index": 141,
+    "key": "InventorySpaceInfoTitle",
+    "zh": "背包已满"
+  },
+  {
+    "index": 142,
+    "key": "InventorySpaceInfoDescription",
+    "zh": "道具数量已达上限！"
+  },
+  {
+    "index": 143,
+    "key": "IncomingText",
+    "zh": "敌军来袭！"
+  },
+  {
+    "index": 144,
+    "key": "DefeatedText",
+    "zh": "已击败！"
+  },
+  {
+    "index": 145,
+    "key": "DamageText",
+    "zh": "伤害"
+  },
+  {
+    "index": 146,
+    "key": "CardEarnedText",
+    "zh": "获得卡牌！"
+  },
+  {
+    "index": 147,
+    "key": "DamageLCText",
+    "zh": "伤害"
+  },
+  {
+    "index": 148,
+    "key": "SlowLCText",
+    "zh": "减速"
+  },
+  {
+    "index": 149,
+    "key": "GrasslandsText",
+    "zh": "草原"
+  },
+  {
+    "index": 150,
+    "key": "DrylandsText",
+    "zh": "旱地"
+  },
+  {
+    "index": 151,
+    "key": "LavaflowText",
+    "zh": "熔岩地带"
+  },
+  {
+    "index": 152,
+    "key": "CityText",
+    "zh": "故乡"
+  },
+  {
+    "index": 153,
+    "key": "HeroIncomingText",
+    "zh": "$(HeroInfo_Name) 来袭！"
+  },
+  {
+    "index": 154,
+    "key": "HeroDefeatedText",
+    "zh": "已击败 $(HeroInfo_Name)！"
+  },
+  {
+    "index": 155,
+    "key": "Grasslands_Map1Name",
+    "zh": "克隆巨石阵"
+  },
+  {
+    "index": 156,
+    "key": "Grasslands_Map1Description",
+    "zh": "殊死坚守！尽可能长久地抵挡入侵的敌军。"
+  },
+  {
+    "index": 157,
+    "key": "Grasslands_Map1aName",
+    "zh": "疾速巨石阵"
+  },
+  {
+    "index": 158,
+    "key": "Grasslands_Map1aDescription",
+    "zh": "是谁把激光塔留在了战场上？不管怎样，先把敌军引过去！"
+  },
+  {
+    "index": 159,
+    "key": "Grasslands_Map2Name",
+    "zh": "命运之弯"
+  },
+  {
+    "index": 160,
+    "key": "Grasslands_Map2Description",
+    "zh": "这些克隆兵竟学会挖战壕了！我们无法在战壕里造塔，但可以从两侧攻击。"
+  },
+  {
+    "index": 161,
+    "key": "Grasslands_Map3Name",
+    "zh": "断枝防线"
+  },
+  {
+    "index": 162,
+    "key": "Grasslands_Map3Description",
+    "zh": "更狡猾的战壕布局！利用战场上的狭窄通道，阻止他们抵达断枝。"
+  },
+  {
+    "index": 163,
+    "key": "Grasslands_Map4Name",
+    "zh": "疯狂牧场"
+  },
+  {
+    "index": 164,
+    "key": "Grasslands_Map4Description",
+    "zh": "打完断枝防线，他们大概把铲子用光了。这里只有草地、奶牛和疯狂克隆兵。那是多莉羊吗？"
+  },
+  {
+    "index": 165,
+    "key": "Grasslands_Map4aName",
+    "zh": "经典阵地"
+  },
+  {
+    "index": 166,
+    "key": "Grasslands_Map4aDescription",
+    "zh": "经典战场！顺便一提，初代《坚守阵地》也还在售，欢迎光临……"
+  },
+  {
+    "index": 167,
+    "key": "Grasslands_Map5Name",
+    "zh": "盘根公路"
+  },
+  {
+    "index": 168,
+    "key": "Grasslands_Map5Description",
+    "zh": "他们被困在高速公路上了！那些环路看起来很适合造塔。"
+  },
+  {
+    "index": 169,
+    "key": "Grasslands_Map5aName",
+    "zh": "疾速公路"
+  },
+  {
+    "index": 170,
+    "key": "Grasslands_Map5aDescription",
+    "zh": "这些复制来的短跑健将跑得飞快。你有 4 分钟疏通交通，祝你好运！"
+  },
+  {
+    "index": 171,
+    "key": "Drylands_Map1Name",
+    "zh": "旱地初战"
+  },
+  {
+    "index": 172,
+    "key": "Drylands_Map1Description",
+    "zh": "大批克隆兵涌入旱地！先挡住他们，为后续任务争取时间。"
+  },
+  {
+    "index": 173,
+    "key": "Drylands_Map2Name",
+    "zh": "奇异集市"
+  },
+  {
+    "index": 174,
+    "key": "Drylands_Map2Description",
+    "zh": "这些复制兵发现了桥梁！利用这座桥构筑一个大回环。"
+  },
+  {
+    "index": 175,
+    "key": "Drylands_Map3Name",
+    "zh": "干旱险境"
+  },
+  {
+    "index": 176,
+    "key": "Drylands_Map3Description",
+    "zh": "我们把他们逼进荒地了！你能一边建造迷宫，一边保证对战壕的火力吗？"
+  },
+  {
+    "index": 177,
+    "key": "Drylands_Map3aName",
+    "zh": "极速旱境"
+  },
+  {
+    "index": 178,
+    "key": "Drylands_Map3aDescription",
+    "zh": "干旱险境的加速版。希望你还记得怎么造那个迷宫。"
+  },
+  {
+    "index": 179,
+    "key": "Drylands_Map4Name",
+    "zh": "心跳峡谷"
+  },
+  {
+    "index": 180,
+    "key": "Drylands_Map4Description",
+    "zh": "如果还没有烈焰塔，现在或许该回头挑战几场困难任务了。"
+  },
+  {
+    "index": 181,
+    "key": "Drylands_Map5Name",
+    "zh": "好奇峡谷"
+  },
+  {
+    "index": 182,
+    "key": "Drylands_Map5Description",
+    "zh": "旱地里的三重克隆入侵者快被清空了，继续推进！"
+  },
+  {
+    "index": 183,
+    "key": "Lavaflow_Map1Name",
+    "zh": "烈火煎锅"
+  },
+  {
+    "index": 184,
+    "key": "Lavaflow_Map1Description",
+    "zh": "终于来到熔岩地带！试着把敌军从中间分流，再送进火海！"
+  },
+  {
+    "index": 185,
+    "key": "Lavaflow_Map1aName",
+    "zh": "烈火炒蛋"
+  },
+  {
+    "index": 186,
+    "key": "Lavaflow_Map1aDescription",
+    "zh": "再来一次，这次拿出你能承受的最快速度！"
+  },
+  {
+    "index": 187,
+    "key": "Lavaflow_Map2Name",
+    "zh": "火焰之环"
+  },
+  {
+    "index": 188,
+    "key": "Lavaflow_Map2Description",
+    "zh": "这些可恶的入侵者！给他们绕个结结实实的大圈。"
+  },
+  {
+    "index": 189,
+    "key": "Lavaflow_Map2aName",
+    "zh": "闪燃突袭"
+  },
+  {
+    "index": 190,
+    "key": "Lavaflow_Map2aDescription",
+    "zh": "敌军着火了！继续加热！我们……已经想不出谐音梗了。好好打就行！"
+  },
+  {
+    "index": 191,
+    "key": "Lavaflow_Map4Name",
+    "zh": "末日终点"
+  },
+  {
+    "index": 192,
+    "key": "Lavaflow_Map4Description",
+    "zh": "最终倒计时！克隆兵原来一直在这里制造头盔。让这座血汗工厂彻底关门！"
+  },
+  {
+    "index": 193,
+    "key": "Lavaflow_Map5Name",
+    "zh": "炙热赌局"
+  },
+  {
+    "index": 194,
+    "key": "Lavaflow_Map5Description",
+    "zh": "隧道尽头有光！还是点火器的火苗？他们到底在下面藏了什么？"
+  },
+  {
+    "index": 195,
+    "key": "City_Map0Name",
+    "zh": "与此同时……"
+  },
+  {
+    "index": 196,
+    "key": "City_Map0Description",
+    "zh": "欢迎来到《坚守阵地 2》！敌军正在洗劫苏巴实验室，训练必须速战速决！"
+  },
+  {
+    "index": 197,
+    "key": "City_Map1Name",
+    "zh": "最后一舞"
+  },
+  {
+    "index": 198,
+    "key": "City_Map1Description",
+    "zh": "解谜地图？把敌军引向光束，让他们跳完最后一支舞。"
+  },
+  {
+    "index": 199,
+    "key": "City_Map2Name",
+    "zh": "雷区情缘"
+  },
+  {
+    "index": 200,
+    "key": "City_Map2Description",
+    "zh": "又一张烧脑的解谜地图？士兵先生，认识一下地雷先生。"
+  },
+  {
+    "index": 201,
+    "key": "City_Map4Name",
+    "zh": "险恶街区"
+  },
+  {
+    "index": 202,
+    "key": "City_Map4Description",
+    "zh": "提前规划，迅速建造。"
+  },
+  {
+    "index": 203,
+    "key": "City_Map5Name",
+    "zh": "游乐场保卫战"
+  },
+  {
+    "index": 204,
+    "key": "City_Map5Description",
+    "zh": "每波结束，感激的游乐场员工都会送上资金。他们说不定还会原谅你给他们起外号。"
+  },
+  {
+    "index": 205,
+    "key": "City_Map6Name",
+    "zh": "魔法把戏"
+  },
+  {
+    "index": 206,
+    "key": "City_Map6Description",
+    "zh": "消失箱戏法彻底失控了！快快显灵！"
+  },
+  {
+    "index": 207,
+    "key": "Comic0Title",
+    "zh": "突发新闻！敌军集结，战争将至！"
+  },
+  {
+    "index": 208,
+    "key": "Comic1Title",
+    "zh": "突发新闻！他们抢走了克隆机！"
+  },
+  {
+    "index": 209,
+    "key": "Comic2Title",
+    "zh": "突发新闻！克隆大军涌入旱地！"
+  },
+  {
+    "index": 210,
+    "key": "Comic3Title",
+    "zh": "突发新闻！熔岩地带战火正盛！"
+  },
+  {
+    "index": 211,
+    "key": "Comic4Title",
+    "zh": "胜利！敌军吓得落荒而逃！"
+  },
+  {
+    "index": 212,
+    "key": "Mode_Survival_Name",
+    "zh": "生存"
+  },
+  {
+    "index": 213,
+    "key": "Mode_Survival_Description",
+    "zh": "阻止入侵，坚守 $(SelectedMapModeParameter) 波！"
+  },
+  {
+    "index": 214,
+    "key": "Mode_Puzzle_Name",
+    "zh": "解谜"
+  },
+  {
+    "index": 215,
+    "key": "Mode_Puzzle_Description",
+    "zh": "解开这道难题，你能活下来吗？"
+  },
+  {
+    "index": 216,
+    "key": "Mode_Sudden_Death_Name",
+    "zh": "殊死坚守"
+  },
+  {
+    "index": 217,
+    "key": "Mode_Sudden_Death_Description",
+    "zh": "在防线被突破前击败 $(TargetKillCount) 个单位。"
+  },
+  {
+    "index": 218,
+    "key": "Mode_Time_Trial_Name",
+    "zh": "限时挑战"
+  },
+  {
+    "index": 219,
+    "key": "Mode_Time_Trial_Description",
+    "zh": "在时间耗尽前击败 $(TargetKillCount) 个单位。"
+  },
+  {
+    "index": 220,
+    "key": "Mode_Boss_Name",
+    "zh": "首领战"
+  },
+  {
+    "index": 221,
+    "key": "Mode_Boss_Description",
+    "zh": "在 $(SelectedMapModeParameter) 波内击败这名首领。"
+  },
+  {
+    "index": 222,
+    "key": "Enemy_Air_Blimp_Name",
+    "zh": "厄运飞艇"
+  },
+  {
+    "index": 223,
+    "key": "Enemy_Air_Blimp_Description",
+    "zh": "你以为这艘飞艇很容易击落？那可就大错特错了。"
+  },
+  {
+    "index": 224,
+    "key": "Enemy_Air_Blimp_Card",
+    "zh": "“来看看我收藏的图钉。”"
+  },
+  {
+    "index": 225,
+    "key": "Enemy_Air_Blimp_Guide_1",
+    "zh": "奖励：$40 / 15,000 分"
+  },
+  {
+    "index": 226,
+    "key": "Enemy_Air_Blimp_Guide_2",
+    "zh": "速度：25 千米/时"
+  },
+  {
+    "index": 227,
+    "key": "Enemy_Air_Blimp_Guide_3",
+    "zh": "体型：史诗级"
+  },
+  {
+    "index": 228,
+    "key": "Enemy_Air_Blimp_Guide_4",
+    "zh": "重量：无"
+  },
+  {
+    "index": 229,
+    "key": "Enemy_Air_Helicopter_Heavy_Name",
+    "zh": "路易重型直升机"
+  },
+  {
+    "index": 230,
+    "key": "Enemy_Air_Helicopter_Heavy_Description",
+    "zh": "这就是一块会飞的砖头。想尽办法拦住它。"
+  },
+  {
+    "index": 231,
+    "key": "Enemy_Air_Helicopter_Heavy_Card",
+    "zh": "“它当然安全，就是块装满燃料的砖。麻烦的是我们。”"
+  },
+  {
+    "index": 232,
+    "key": "Enemy_Air_Helicopter_Heavy_Guide_1",
+    "zh": "奖励：$10 / 1,700 分"
+  },
+  {
+    "index": 233,
+    "key": "Enemy_Air_Helicopter_Heavy_Guide_2",
+    "zh": "速度：88 千米/时"
+  },
+  {
+    "index": 234,
+    "key": "Enemy_Air_Helicopter_Heavy_Guide_3",
+    "zh": "强度：极高"
+  },
+  {
+    "index": 235,
+    "key": "Enemy_Air_Helicopter_Heavy_Guide_4",
+    "zh": "冲劲：势不可挡"
+  },
+  {
+    "index": 236,
+    "key": "Enemy_Air_Helicopter_Light_Name",
+    "zh": "休伊直升机"
+  },
+  {
+    "index": 237,
+    "key": "Enemy_Air_Helicopter_Light_Description",
+    "zh": "这架直升机可以直接飞越你的迷宫。"
+  },
+  {
+    "index": 238,
+    "key": "Enemy_Air_Helicopter_Light_Card",
+    "zh": "“直升机只有一个弱点：物理定律。”"
+  },
+  {
+    "index": 239,
+    "key": "Enemy_Air_Helicopter_Light_Guide_1",
+    "zh": "奖励：$2 / 1,000 分"
+  },
+  {
+    "index": 240,
+    "key": "Enemy_Air_Helicopter_Light_Guide_2",
+    "zh": "速度：132 千米/时"
+  },
+  {
+    "index": 241,
+    "key": "Enemy_Air_Helicopter_Light_Guide_3",
+    "zh": "强度：中等"
+  },
+  {
+    "index": 242,
+    "key": "Enemy_Air_Helicopter_Light_Guide_4",
+    "zh": "用途：无穷无尽"
+  },
+  {
+    "index": 243,
+    "key": "Enemy_Air_Plane_Bi_Medium_Name",
+    "zh": "翼螺母"
+  },
+  {
+    "index": 244,
+    "key": "Enemy_Air_Plane_Bi_Medium_Description",
+    "zh": "空中的割草机。多一对机翼也不会更结实。"
+  },
+  {
+    "index": 245,
+    "key": "Enemy_Air_Plane_Bi_Medium_Card",
+    "zh": "“我们的飞行纪录完美无缺，从没把飞机留在天上。”"
+  },
+  {
+    "index": 246,
+    "key": "Enemy_Air_Plane_Bi_Medium_Guide_1",
+    "zh": "奖励：$2 / 800 分"
+  },
+  {
+    "index": 247,
+    "key": "Enemy_Air_Plane_Bi_Medium_Guide_2",
+    "zh": "速度：220 千米/时"
+  },
+  {
+    "index": 248,
+    "key": "Enemy_Air_Plane_Bi_Medium_Guide_3",
+    "zh": "马力：40"
+  },
+  {
+    "index": 249,
+    "key": "Enemy_Air_Plane_Bi_Medium_Guide_4",
+    "zh": "保险：无"
+  },
+  {
+    "index": 250,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_Name",
+    "zh": "S-17 天鲸"
+  },
+  {
+    "index": 251,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_Description",
+    "zh": "一颗长了翅膀的炸弹。在敌群附近击毁它，来一场惊天大爆炸！"
+  },
+  {
+    "index": 252,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_Card",
+    "zh": "“它像木头蹦床一样吱呀乱响，却仍是台末日机器。”"
+  },
+  {
+    "index": 253,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_East_Guide_1",
+    "zh": "奖励：$5 / 2,400 分"
+  },
+  {
+    "index": 254,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_East_Guide_2",
+    "zh": "速度：88 千米/时"
+  },
+  {
+    "index": 255,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_East_Guide_3",
+    "zh": "出击次数：14"
+  },
+  {
+    "index": 256,
+    "key": "Enemy_Air_Plane_Bomber_Heavy_East_Guide_4",
+    "zh": "* 会爆炸"
+  },
+  {
+    "index": 257,
+    "key": "Enemy_Air_Plane_Fokker_Light_Name",
+    "zh": "福克战机"
+  },
+  {
+    "index": 258,
+    "key": "Enemy_Air_Plane_Fokker_Light_Description",
+    "zh": "没错，这真是它的名字。用快速武器追上这架讨厌的飞机。"
+  },
+  {
+    "index": 259,
+    "key": "Enemy_Air_Plane_Fokker_Light_Card",
+    "zh": "“没错，现实中它就叫这个。”"
+  },
+  {
+    "index": 260,
+    "key": "Enemy_Air_Plane_Fokker_Light_Guide_1",
+    "zh": "奖励：$2 / 2,400 分"
+  },
+  {
+    "index": 261,
+    "key": "Enemy_Air_Plane_Fokker_Light_Guide_2",
+    "zh": "速度：300 千米/时"
+  },
+  {
+    "index": 262,
+    "key": "Enemy_Air_Plane_Fokker_Light_Guide_3",
+    "zh": "马力：660"
+  },
+  {
+    "index": 263,
+    "key": "Enemy_Air_Plane_Fokker_Light_Guide_4",
+    "zh": "弱点：什么都怕"
+  },
+  {
+    "index": 264,
+    "key": "Enemy_Bike_Heavy_Name",
+    "zh": "脏野猪"
+  },
+  {
+    "index": 265,
+    "key": "Enemy_Bike_Heavy_Description",
+    "zh": "这些骑手壮得快把摩托车压垮了，但我可不敢告诉他们。"
+  },
+  {
+    "index": 266,
+    "key": "Enemy_Bike_Heavy_Card",
+    "zh": "“公路没有尽头，骑行总会结束。”"
+  },
+  {
+    "index": 267,
+    "key": "Enemy_Bike_Heavy_Guide_1",
+    "zh": "奖励：$2 / 650 分"
+  },
+  {
+    "index": 268,
+    "key": "Enemy_Bike_Heavy_Guide_2",
+    "zh": "速度：165 千米/时"
+  },
+  {
+    "index": 269,
+    "key": "Enemy_Bike_Heavy_Guide_3",
+    "zh": "最爱：公路"
+  },
+  {
+    "index": 270,
+    "key": "Enemy_Bike_Heavy_Guide_4",
+    "zh": "怒气：随年龄消退"
+  },
+  {
+    "index": 271,
+    "key": "Enemy_Bike_Light_Name",
+    "zh": "越野摩托"
+  },
+  {
+    "index": 272,
+    "key": "Enemy_Bike_Light_Description",
+    "zh": "这辆摩托车快得可能直接溜过你的防线。"
+  },
+  {
+    "index": 273,
+    "key": "Enemy_Bike_Light_Card",
+    "zh": "“有时你是苍蝇，有时你是挡风玻璃。”"
+  },
+  {
+    "index": 274,
+    "key": "Enemy_Bike_Light_Guide_1",
+    "zh": "奖励：$1 / 300 分"
+  },
+  {
+    "index": 275,
+    "key": "Enemy_Bike_Light_Guide_2",
+    "zh": "速度：240 千米/时"
+  },
+  {
+    "index": 276,
+    "key": "Enemy_Bike_Light_Guide_3",
+    "zh": "路考：未通过"
+  },
+  {
+    "index": 277,
+    "key": "Enemy_Bike_Light_Guide_4",
+    "zh": "摔车次数：零"
+  },
+  {
+    "index": 278,
+    "key": "Enemy_Bike_Transport_Name",
+    "zh": "边斗摩托"
+  },
+  {
+    "index": 279,
+    "key": "Enemy_Bike_Transport_Description",
+    "zh": "这辆摩托带着可分离的边斗，里面还坐着一名敌军。"
+  },
+  {
+    "index": 280,
+    "key": "Enemy_Bike_Transport_Card",
+    "zh": "“呃……能借你的车用用吗？”"
+  },
+  {
+    "index": 281,
+    "key": "Enemy_Bike_Transport_Light_Guide_1",
+    "zh": "奖励：$2 / 300 分"
+  },
+  {
+    "index": 282,
+    "key": "Enemy_Bike_Transport_Light_Guide_2",
+    "zh": "速度：240 千米/时"
+  },
+  {
+    "index": 283,
+    "key": "Enemy_Bike_Transport_Light_Guide_3",
+    "zh": "危险程度：高"
+  },
+  {
+    "index": 284,
+    "key": "Enemy_Bike_Transport_Light_Guide_4",
+    "zh": "* 释放一名士兵"
+  },
+  {
+    "index": 285,
+    "key": "Enemy_Tank_Heavy_Name",
+    "zh": "坦克妈妈"
+  },
+  {
+    "index": 286,
+    "key": "Enemy_Tank_Heavy_Description",
+    "zh": "要拦住这辆庞然大物，只有强力的单体攻击塔才有希望。"
+  },
+  {
+    "index": 287,
+    "key": "Enemy_Tank_Heavy_Card",
+    "zh": "“节礼日快乐！我们送你一份炸药！”"
+  },
+  {
+    "index": 288,
+    "key": "Enemy_Tank_Heavy_Guide_1",
+    "zh": "奖励：$10 / 3,000 分"
+  },
+  {
+    "index": 289,
+    "key": "Enemy_Tank_Heavy_Guide_2",
+    "zh": "速度：55 千米/时"
+  },
+  {
+    "index": 290,
+    "key": "Enemy_Tank_Heavy_Guide_3",
+    "zh": "喜欢：开炮！"
+  },
+  {
+    "index": 291,
+    "key": "Enemy_Tank_Heavy_Guide_4",
+    "zh": "讨厌：不能开炮"
+  },
+  {
+    "index": 292,
+    "key": "Enemy_Tank_Light_Name",
+    "zh": "坦克宝宝"
+  },
+  {
+    "index": 293,
+    "key": "Enemy_Tank_Light_Description",
+    "zh": "这辆小坦克是一堵强大的移动城墙。先减速，才拦得住。"
+  },
+  {
+    "index": 294,
+    "key": "Enemy_Tank_Light_Card",
+    "zh": "“车里有人该换袜子了。”"
+  },
+  {
+    "index": 295,
+    "key": "Enemy_Tank_Light_Guide_1",
+    "zh": "奖励：$5 / 2,000 分"
+  },
+  {
+    "index": 296,
+    "key": "Enemy_Tank_Light_Guide_2",
+    "zh": "速度：88 千米/时"
+  },
+  {
+    "index": 297,
+    "key": "Enemy_Tank_Light_Guide_3",
+    "zh": "重量：区区 67 吨"
+  },
+  {
+    "index": 298,
+    "key": "Enemy_Tank_Light_Guide_4",
+    "zh": "生命值：多得装桶"
+  },
+  {
+    "index": 299,
+    "key": "Enemy_Truck_Transport_Medium_Name",
+    "zh": "满载吉普"
+  },
+  {
+    "index": 300,
+    "key": "Enemy_Truck_Transport_Medium_Description",
+    "zh": "吉普车内载有四名敌军。准备好范围攻击，迎接破车而出的乘客。"
+  },
+  {
+    "index": 301,
+    "key": "Enemy_Truck_Transport_Medium_Card",
+    "zh": "“只要 49 块，四缸、60 马力，还有真皮座椅。”"
+  },
+  {
+    "index": 302,
+    "key": "Enemy_Truck_Transport_Medium_Guide_1",
+    "zh": "奖励：$2 / 450 分"
+  },
+  {
+    "index": 303,
+    "key": "Enemy_Truck_Transport_Medium_Guide_2",
+    "zh": "速度：125 千米/时"
+  },
+  {
+    "index": 304,
+    "key": "Enemy_Truck_Transport_Medium_Guide_3",
+    "zh": "头发：迎风飘扬"
+  },
+  {
+    "index": 305,
+    "key": "Enemy_Truck_Transport_Medium_Guide_4",
+    "zh": "* 释放四名士兵"
+  },
+  {
+    "index": 306,
+    "key": "Enemy_Truck_Transport_Heavy_Name",
+    "zh": "重型运输车"
+  },
+  {
+    "index": 307,
+    "key": "Enemy_Truck_Transport_Heavy_Description",
+    "zh": "这辆卡车像塞满邪恶果酱的甜甜圈，里面挤着六名全尺寸敌军。"
+  },
+  {
+    "index": 308,
+    "key": "Enemy_Truck_Transport_Heavy_Card",
+    "zh": "“把烟灰缸拆了，是不是还能塞下弗兰克？”"
+  },
+  {
+    "index": 309,
+    "key": "Enemy_Truck_Transport_Heavy_Guide_1",
+    "zh": "奖励：$2 / 500 分"
+  },
+  {
+    "index": 310,
+    "key": "Enemy_Truck_Transport_Heavy_Guide_2",
+    "zh": "速度：100 千米/时"
+  },
+  {
+    "index": 311,
+    "key": "Enemy_Truck_Transport_Heavy_Guide_3",
+    "zh": "安全带：选装"
+  },
+  {
+    "index": 312,
+    "key": "Enemy_Truck_Transport_Heavy_Guide_4",
+    "zh": "* 释放六名士兵"
+  },
+  {
+    "index": 313,
+    "key": "Enemy_Truck_V2_Heavy_Name",
+    "zh": "V2 火箭卡车"
+  },
+  {
+    "index": 314,
+    "key": "Enemy_Truck_V2_Heavy_Description",
+    "zh": "好一辆奇怪的卡车。试着在敌军密集处把它炸掉。"
+  },
+  {
+    "index": 315,
+    "key": "Enemy_Truck_V2_Heavy_Card",
+    "zh": "“V2 能释放势不可挡的烈焰洪流。话说我们把车停哪儿了？”"
+  },
+  {
+    "index": 316,
+    "key": "Enemy_Truck_V2_Heavy_Guide_1",
+    "zh": "奖励：$2 / 500 分"
+  },
+  {
+    "index": 317,
+    "key": "Enemy_Truck_V2_Heavy_Guide_2",
+    "zh": "速度：99 千米/时"
+  },
+  {
+    "index": 318,
+    "key": "Enemy_Truck_V2_Heavy_Guide_3",
+    "zh": "燃油效率：低"
+  },
+  {
+    "index": 319,
+    "key": "Enemy_Truck_V2_Heavy_Guide_4",
+    "zh": "* 会爆炸"
+  },
+  {
+    "index": 320,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Name",
+    "zh": "烘烤大师"
+  },
+  {
+    "index": 321,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Description",
+    "zh": "这个行走的隔热手套不受高温伤害。尽管点火吧！"
+  },
+  {
+    "index": 322,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Card",
+    "zh": "“想问问丙烷和丙烷配件的事吗？”"
+  },
+  {
+    "index": 323,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Guide_1",
+    "zh": "奖励：$1 / 100 分"
+  },
+  {
+    "index": 324,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Guide_2",
+    "zh": "速度：152 千米/时"
+  },
+  {
+    "index": 325,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Guide_3",
+    "zh": "烤炉燃料：丙烷"
+  },
+  {
+    "index": 326,
+    "key": "Enemy_Soldier_Anti_Heat_Light_Guide_4",
+    "zh": "* 免疫火焰"
+  },
+  {
+    "index": 327,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Name",
+    "zh": "倔强跑兵"
+  },
+  {
+    "index": 328,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Description",
+    "zh": "这小家伙不会被任何东西拖慢脚步。减速塔对他无效。"
+  },
+  {
+    "index": 329,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Card",
+    "zh": "“妈妈总说要诚实，所以我跑起来像个疯子。”"
+  },
+  {
+    "index": 330,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Guide_1",
+    "zh": "奖励：$1 / 100 分"
+  },
+  {
+    "index": 331,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Guide_2",
+    "zh": "速度：152 千米/时"
+  },
+  {
+    "index": 332,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Guide_3",
+    "zh": "鞋子：磨损严重"
+  },
+  {
+    "index": 333,
+    "key": "Enemy_Soldier_Anti_Slow_Light_Guide_4",
+    "zh": "* 免疫减速"
+  },
+  {
+    "index": 334,
+    "key": "Enemy_Soldier_Hazmat_Light_Name",
+    "zh": "防化兵"
+  },
+  {
+    "index": 335,
+    "key": "Enemy_Soldier_Hazmat_Light_Description",
+    "zh": "这名敌军免疫辐射、生化危害、毒气，以及穿过的臭袜子。"
+  },
+  {
+    "index": 336,
+    "key": "Enemy_Soldier_Hazmat_Light_Card",
+    "zh": "“不，我不会帮你洗袜子。”"
+  },
+  {
+    "index": 337,
+    "key": "Enemy_Soldier_Hazmat_Light_Guide_1",
+    "zh": "奖励：$1 / 100 分"
+  },
+  {
+    "index": 338,
+    "key": "Enemy_Soldier_Hazmat_Light_Guide_2",
+    "zh": "速度：152 千米/时"
+  },
+  {
+    "index": 339,
+    "key": "Enemy_Soldier_Hazmat_Light_Guide_3",
+    "zh": "讨厌：出汗"
+  },
+  {
+    "index": 340,
+    "key": "Enemy_Soldier_Hazmat_Light_Guide_4",
+    "zh": "* 免疫生化伤害"
+  },
+  {
+    "index": 341,
+    "key": "Enemy_Soldier_Heavy_Name",
+    "zh": "超级大兵"
+  },
+  {
+    "index": 342,
+    "key": "Enemy_Soldier_Heavy_Description",
+    "zh": "这家伙壮得像长了膝盖的冰箱，击败后可获得双倍金钱。"
+  },
+  {
+    "index": 343,
+    "key": "Enemy_Soldier_Heavy_Card",
+    "zh": "“我只想让你练出全部的肌肉潜能。”"
+  },
+  {
+    "index": 344,
+    "key": "Enemy_Soldier_Heavy_Guide_1",
+    "zh": "奖励：$2 / 120 分"
+  },
+  {
+    "index": 345,
+    "key": "Enemy_Soldier_Heavy_Guide_2",
+    "zh": "速度：140 千米/时"
+  },
+  {
+    "index": 346,
+    "key": "Enemy_Soldier_Heavy_Guide_3",
+    "zh": "父母：熊与沙发"
+  },
+  {
+    "index": 347,
+    "key": "Enemy_Soldier_Heavy_Guide_4",
+    "zh": "座右铭：健身第一！"
+  },
+  {
+    "index": 348,
+    "key": "Enemy_Soldier_Light_Name",
+    "zh": "跑兵"
+  },
+  {
+    "index": 349,
+    "key": "Enemy_Soldier_Light_Description",
+    "zh": "这些红衣小兵已准备入侵！修建迷宫，拦住他们！"
+  },
+  {
+    "index": 350,
+    "key": "Enemy_Soldier_Light_Card",
+    "zh": "“跑步是一项精神运动，而我们全都疯了。”"
+  },
+  {
+    "index": 351,
+    "key": "Enemy_Soldier_Light_Guide_1",
+    "zh": "奖励：$1 / 100 分"
+  },
+  {
+    "index": 352,
+    "key": "Enemy_Soldier_Light_Guide_2",
+    "zh": "速度：152 千米/时"
+  },
+  {
+    "index": 353,
+    "key": "Enemy_Soldier_Light_Guide_3",
+    "zh": "动力来源：希望"
+  },
+  {
+    "index": 354,
+    "key": "Enemy_Soldier_Light_Guide_4",
+    "zh": "肌腱炎：非常严重"
+  },
+  {
+    "index": 355,
+    "key": "Enemy_Soldier_Medic_Name",
+    "zh": "医疗兵"
+  },
+  {
+    "index": 356,
+    "key": "Enemy_Soldier_Medic_Description",
+    "zh": "医疗兵会治疗周围的所有单位。手里有道具的话，优先解决他。"
+  },
+  {
+    "index": 357,
+    "key": "Enemy_Soldier_Medic_Card",
+    "zh": "“什么意思，不给加班费？”"
+  },
+  {
+    "index": 358,
+    "key": "Enemy_Soldier_Medic_Guide_1",
+    "zh": "奖励：$1 / 100 分"
+  },
+  {
+    "index": 359,
+    "key": "Enemy_Soldier_Medic_Guide_2",
+    "zh": "速度：167 千米/时"
+  },
+  {
+    "index": 360,
+    "key": "Enemy_Soldier_Medic_Guide_3",
+    "zh": "身高：弯腰驼背"
+  },
+  {
+    "index": 361,
+    "key": "Enemy_Soldier_Medic_Guide_4",
+    "zh": "精力：已经耗尽"
+  },
+  {
+    "index": 362,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Name",
+    "zh": "王牌飞行员"
+  },
+  {
+    "index": 363,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Description",
+    "zh": "要不是他正忙着侵占你的国家，你们也许还能笑着聊聊天。"
+  },
+  {
+    "index": 364,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Card",
+    "zh": "“我去把敌人熏出来，你去给我熏条鱼。”"
+  },
+  {
+    "index": 365,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Guide_1",
+    "zh": "奖励：10,000 分"
+  },
+  {
+    "index": 366,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Guide_2",
+    "zh": "头发：灰金色"
+  },
+  {
+    "index": 367,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Guide_3",
+    "zh": "眼睛：矢车菊蓝"
+  },
+  {
+    "index": 368,
+    "key": "Enemy_Hero_Biplane_Flying_Ace_Guide_4",
+    "zh": "笑容：耀眼"
+  },
+  {
+    "index": 369,
+    "key": "Enemy_Hero_Biplane_Flying_Red_Baron_Name",
+    "zh": "红男爵"
+  },
+  {
+    "index": 370,
+    "key": "Enemy_Hero_Biplane_Flying_Red_Baron_Description",
+    "zh": "这位年轻传奇把飞行当下棋，把下棋当掰手腕。"
+  },
+  {
+    "index": 371,
+    "key": "Enemy_Hero_Biplane_Flying_Red_Baron_Card",
+    "zh": "“英国人讲了个妙极的笑话：他们说要拦住我！”"
+  },
+  {
+    "index": 372,
+    "key": "Enemy_Hero_Biplane_Red_Baron_Guide_1",
+    "zh": "奖励：10,000 分"
+  },
+  {
+    "index": 373,
+    "key": "Enemy_Hero_Biplane_Red_Baron_Guide_2",
+    "zh": "座机：红色"
+  },
+  {
+    "index": 374,
+    "key": "Enemy_Hero_Biplane_Red_Baron_Guide_3",
+    "zh": "年龄：25"
+  },
+  {
+    "index": 375,
+    "key": "Enemy_Hero_Biplane_Red_Baron_Guide_4",
+    "zh": "最爱：天空"
+  },
+  {
+    "index": 376,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Name",
+    "zh": "兴登堡号"
+  },
+  {
+    "index": 377,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Description",
+    "zh": "史上最大的飞艇，也是最后一艘。两件事大概有关。"
+  },
+  {
+    "index": 378,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Card",
+    "zh": "“弗兰克，客舱也许该禁止吸烟。”"
+  },
+  {
+    "index": 379,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 380,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Guide_2",
+    "zh": "乘员：61"
+  },
+  {
+    "index": 381,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Guide_3",
+    "zh": "大小：堪比中央车站"
+  },
+  {
+    "index": 382,
+    "key": "Enemy_Hero_Blimp_Hindenburg_Guide_4",
+    "zh": "外皮：铝热剂"
+  },
+  {
+    "index": 383,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Name",
+    "zh": "齐柏林飞艇"
+  },
+  {
+    "index": 384,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Description",
+    "zh": "庞大、缓慢、阴沉而强悍。齐柏林带来毁灭，而且经常毁了自己。"
+  },
+  {
+    "index": 385,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Card",
+    "zh": "“总有东西被你错过。希望那东西是地面。”"
+  },
+  {
+    "index": 386,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 387,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Guide_2",
+    "zh": "引擎：四台"
+  },
+  {
+    "index": 388,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Guide_3",
+    "zh": "空袭：无休无止"
+  },
+  {
+    "index": 389,
+    "key": "Enemy_Hero_Blimp_Zeppelin_Guide_4",
+    "zh": "未来：永不沉没"
+  },
+  {
+    "index": 390,
+    "key": "Enemy_Hero_Commander_Hajime_Name",
+    "zh": "阿一元帅"
+  },
+  {
+    "index": 391,
+    "key": "Enemy_Hero_Commander_Hajime_Description",
+    "zh": ""
+  },
+  {
+    "index": 392,
+    "key": "Enemy_Hero_Commander_Hajime_Card",
+    "zh": "“士兵只有两种：我的兵，和吓破胆的兵。”"
+  },
+  {
+    "index": 393,
+    "key": "Enemy_Hero_Commander_Rommel_Name",
+    "zh": "沙漠之狐"
+  },
+  {
+    "index": 394,
+    "key": "Enemy_Hero_Commander_Rommel_Description",
+    "zh": ""
+  },
+  {
+    "index": 395,
+    "key": "Enemy_Hero_Commander_Rommel_Card",
+    "zh": "“士兵赢得战斗，我赢得战争。”"
+  },
+  {
+    "index": 396,
+    "key": "Enemy_Hero_Fokker_Black_Name",
+    "zh": "暗夜福克"
+  },
+  {
+    "index": 397,
+    "key": "Enemy_Hero_Fokker_Black_Description",
+    "zh": "没人见过暗夜福克来去。他可能是年轻的王牌，也可能是愤怒的噩梦。"
+  },
+  {
+    "index": 398,
+    "key": "Enemy_Hero_Fokker_Black_Card",
+    "zh": "“坚持飞行，直到最后一块零件停止运动。”"
+  },
+  {
+    "index": 399,
+    "key": "Enemy_Hero_Fokker_Black_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 400,
+    "key": "Enemy_Hero_Fokker_Black_Guide_2",
+    "zh": "眼睛：未知"
+  },
+  {
+    "index": 401,
+    "key": "Enemy_Hero_Fokker_Black_Guide_3",
+    "zh": "身高：未知"
+  },
+  {
+    "index": 402,
+    "key": "Enemy_Hero_Fokker_Black_Guide_4",
+    "zh": "喜欢：反正不是你"
+  },
+  {
+    "index": 403,
+    "key": "Enemy_Hero_Fokker_Sakai_Name",
+    "zh": "坂井中尉"
+  },
+  {
+    "index": 404,
+    "key": "Enemy_Hero_Fokker_Sakai_Description",
+    "zh": "一架好飞机，一只好眼睛，坂井仍然是王牌中的王牌。"
+  },
+  {
+    "index": 405,
+    "key": "Enemy_Hero_Fokker_Sakai_Card",
+    "zh": "“任何地方都能降落一次。”"
+  },
+  {
+    "index": 406,
+    "key": "Enemy_Hero_Fokker_Sakai_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 407,
+    "key": "Enemy_Hero_Fokker_Sakai_Guide_2",
+    "zh": "伤疤：遍布全身"
+  },
+  {
+    "index": 408,
+    "key": "Enemy_Hero_Fokker_Sakai_Guide_3",
+    "zh": "里程：数不胜数"
+  },
+  {
+    "index": 409,
+    "key": "Enemy_Hero_Fokker_Sakai_Guide_4",
+    "zh": "距退休：四天"
+  },
+  {
+    "index": 410,
+    "key": "Enemy_Hero_Tank_Panzer_Name",
+    "zh": "传奇装甲战车"
+  },
+  {
+    "index": 411,
+    "key": "Enemy_Hero_Tank_Panzer_Description",
+    "zh": "这辆坦克凭借纯粹的意志，从淘汰边缘重返战场。"
+  },
+  {
+    "index": 412,
+    "key": "Enemy_Hero_Tank_Panzer_Card",
+    "zh": "“胜利属于最强、最勇敢、最优秀的人。我们争取打平吧。”"
+  },
+  {
+    "index": 413,
+    "key": "Enemy_Hero_Tank_Panzer_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 414,
+    "key": "Enemy_Hero_Tank_Panzer_Guide_2",
+    "zh": "乘员：五人"
+  },
+  {
+    "index": 415,
+    "key": "Enemy_Hero_Tank_Panzer_Guide_3",
+    "zh": "装甲：80 毫米"
+  },
+  {
+    "index": 416,
+    "key": "Enemy_Hero_Tank_Panzer_Guide_4",
+    "zh": "武器：毅力"
+  },
+  {
+    "index": 417,
+    "key": "Enemy_Hero_Tank_Tiger_Name",
+    "zh": "传奇虎式"
+  },
+  {
+    "index": 418,
+    "key": "Enemy_Hero_Tank_Tiger_Description",
+    "zh": "令人生畏的对手，虎式将惊人的火力装进了豪华的外壳。"
+  },
+  {
+    "index": 419,
+    "key": "Enemy_Hero_Tank_Tiger_Card",
+    "zh": "“别人会怎样对你，你就怎样对别人。只要先下手。”"
+  },
+  {
+    "index": 420,
+    "key": "Enemy_Hero_Tank_Tiger_Guide_1",
+    "zh": "奖励：20,000 分"
+  },
+  {
+    "index": 421,
+    "key": "Enemy_Hero_Tank_Tiger_Guide_2",
+    "zh": "造价：高得离谱"
+  },
+  {
+    "index": 422,
+    "key": "Enemy_Hero_Tank_Tiger_Guide_3",
+    "zh": "弱点：无"
+  },
+  {
+    "index": 423,
+    "key": "Enemy_Hero_Tank_Tiger_Guide_4",
+    "zh": "建议：快跑"
+  },
+  {
+    "index": 424,
+    "key": "Tower_Bee_Name",
+    "zh": "蜂巢塔"
+  },
+  {
+    "index": 425,
+    "key": "Tower_Bee_ShortDescription",
+    "zh": "导弹塔之外的高效选择。"
+  },
+  {
+    "index": 426,
+    "key": "Tower_Bee_Description1",
+    "zh": "一级蜂巢塔射程远，并能造成持续范围伤害，尤其适合对付慢速单位。"
+  },
+  {
+    "index": 427,
+    "key": "Tower_Bee_Description2",
+    "zh": "射程不错，还能持续造成范围伤害，是机枪塔与重型塔之间的实用过渡。"
+  },
+  {
+    "index": 428,
+    "key": "Tower_Bee_Description3",
+    "zh": "三级蜂巢塔是苏巴实验室的头号除虫工具。请按说明用于慢速单位。"
+  },
+  {
+    "index": 429,
+    "key": "Tower_Bio_Name",
+    "zh": "瘟疫塔"
+  },
+  {
+    "index": 430,
+    "key": "Tower_Bio_ShortDescription",
+    "zh": "带传染性的针头？安排！"
+  },
+  {
+    "index": 431,
+    "key": "Tower_Bio_Description1",
+    "zh": "一级瘟疫塔能让防化兵以外的敌人生病。用完记得洗手。"
+  },
+  {
+    "index": 432,
+    "key": "Tower_Bio_Description2",
+    "zh": "弹药回收自有毒废料场。选择再生产品，大自然感谢你！"
+  },
+  {
+    "index": 433,
+    "key": "Tower_Bio_Description3",
+    "zh": "我们相当确信，拥有三级瘟疫塔不会致癌。大概吧。"
+  },
+  {
+    "index": 434,
+    "key": "Tower_Flame_Name",
+    "zh": "火焰喷射塔"
+  },
+  {
+    "index": 435,
+    "key": "Tower_Flame_ShortDescription",
+    "zh": "近距离控制敌群。"
+  },
+  {
+    "index": 436,
+    "key": "Tower_Flame_Description1",
+    "zh": "一级火焰喷射塔能在近距离压制敌群。点火时记得穿纯棉衣服。"
+  },
+  {
+    "index": 437,
+    "key": "Tower_Flame_Description2",
+    "zh": "二级火焰喷射塔最爱扎堆的敌军，只想让他们暖暖和和。"
+  },
+  {
+    "index": 438,
+    "key": "Tower_Flame_Description3",
+    "zh": "三级火焰喷射塔是苏巴实验室控制敌群的得意之作。点火吧！"
+  },
+  {
+    "index": 439,
+    "key": "Tower_Gas_Name",
+    "zh": "毒气塔"
+  },
+  {
+    "index": 440,
+    "key": "Tower_Gas_ShortDescription",
+    "zh": "一大团美妙的毒云。"
+  },
+  {
+    "index": 441,
+    "key": "Tower_Gas_Description1",
+    "zh": "一级毒气塔可以攻击直升机，但对防化兵无效。"
+  },
+  {
+    "index": 442,
+    "key": "Tower_Gas_Description2",
+    "zh": "用二级毒气塔化废为宝，把敌军也变成废物。"
+  },
+  {
+    "index": 443,
+    "key": "Tower_Gas_Description3",
+    "zh": "有毒？是。便宜？是。能对付防化兵？……不行。"
+  },
+  {
+    "index": 444,
+    "key": "Tower_Gatling_Name",
+    "zh": "加特林机枪塔"
+  },
+  {
+    "index": 445,
+    "key": "Tower_Gatling_ShortDescription",
+    "zh": "火力虽小，修筑迷宫却很划算。"
+  },
+  {
+    "index": 446,
+    "key": "Tower_Gatling_Description1",
+    "zh": "一、用机枪塔修建迷宫。二、升级以低价增加伤害。三、卖掉以腾出空间。"
+  },
+  {
+    "index": 447,
+    "key": "Tower_Gatling_Description2",
+    "zh": "迷宫初具规模后，升级关键位置的机枪塔，让每一分钱都发挥作用。"
+  },
+  {
+    "index": 448,
+    "key": "Tower_Gatling_Description3",
+    "zh": "三级机枪塔火力惊人。用其他机枪塔引导敌军反复经过它。"
+  },
+  {
+    "index": 449,
+    "key": "Tower_Glue_Name",
+    "zh": "胶水塔"
+  },
+  {
+    "index": 450,
+    "key": "Tower_Glue_ShortDescription",
+    "zh": "大幅减缓单个单位。"
+  },
+  {
+    "index": 451,
+    "key": "Tower_Glue_Description1",
+    "zh": "一级胶水塔能减缓一名敌军。升至三级，并与攻击塔搭配使用。"
+  },
+  {
+    "index": 452,
+    "key": "Tower_Glue_Description2",
+    "zh": "胶水塔要分散布置。两座胶水塔攻击同一名敌军，并不会让减速翻倍。"
+  },
+  {
+    "index": 453,
+    "key": "Tower_Glue_Description3",
+    "zh": "三级胶水塔能大幅减缓一名敌军。别忘了升级所有胶水塔。"
+  },
+  {
+    "index": 454,
+    "key": "Tower_Ice_Name",
+    "zh": "寒冰塔"
+  },
+  {
+    "index": 455,
+    "key": "Tower_Ice_ShortDescription",
+    "zh": "减缓所有邻近单位。"
+  },
+  {
+    "index": 456,
+    "key": "Tower_Ice_Description1",
+    "zh": "寒冰塔能减缓附近的敌军，倔强跑兵除外。升至二级，效果更好。"
+  },
+  {
+    "index": 457,
+    "key": "Tower_Ice_Description2",
+    "zh": "寒冰塔能减缓邻近敌军。这座二级寒冰塔也许该搭配一座火焰塔？"
+  },
+  {
+    "index": 458,
+    "key": "Tower_Ice_Description3",
+    "zh": "三级寒冰塔最爱空军、快速单位的必经之路，还有温热的饮料。"
+  },
+  {
+    "index": 459,
+    "key": "Tower_Landmine_Name",
+    "zh": "布雷塔"
+  },
+  {
+    "index": 460,
+    "key": "Tower_Landmine_ShortDescription",
+    "zh": "在周围地块埋设地雷。"
+  },
+  {
+    "index": 461,
+    "key": "Tower_Landmine_Description1",
+    "zh": "给一级布雷塔一点时间，它会在周围埋下地雷，构成可靠的最后防线。"
+  },
+  {
+    "index": 462,
+    "key": "Tower_Landmine_Description2",
+    "zh": "二级布雷塔会逐渐在周围埋设地雷。地雷还能打中空军，就是这么厉害。"
+  },
+  {
+    "index": 463,
+    "key": "Tower_Landmine_Description3",
+    "zh": "尽可能延长迷宫路线。敌人跑得越久，它就能埋下越多地雷。"
+  },
+  {
+    "index": 464,
+    "key": "Tower_Laser_Name",
+    "zh": "激光塔"
+  },
+  {
+    "index": 465,
+    "key": "Tower_Laser_ShortDescription",
+    "zh": "扫荡整列敌军。"
+  },
+  {
+    "index": 466,
+    "key": "Tower_Laser_Description1",
+    "zh": "一级激光塔能清除整列跑兵、攻击空军，还能吸引猫。请放在长通道尽头。"
+  },
+  {
+    "index": 467,
+    "key": "Tower_Laser_Description2",
+    "zh": "二级激光塔是连击利器，能帮你赚取空袭。升至三级，火力会有惊喜。"
+  },
+  {
+    "index": 468,
+    "key": "Tower_Laser_Description3",
+    "zh": "与大多数塔不同，三级激光塔能获得额外的强力增幅。苏巴实验室接受你的感谢。"
+  },
+  {
+    "index": 469,
+    "key": "Tower_Lightning_Name",
+    "zh": "特斯拉电塔"
+  },
+  {
+    "index": 470,
+    "key": "Tower_Lightning_ShortDescription",
+    "zh": "在中距离电击单个单位。"
+  },
+  {
+    "index": 471,
+    "key": "Tower_Lightning_Description1",
+    "zh": "特斯拉电塔擅长打击单个单位。放在迷宫末端，能有效清理漏网之鱼。"
+  },
+  {
+    "index": 472,
+    "key": "Tower_Lightning_Description2",
+    "zh": "二级特斯拉电塔还能造成少量溅射伤害，方便对付敌群。别对着它流口水。"
+  },
+  {
+    "index": 473,
+    "key": "Tower_Lightning_Description3",
+    "zh": "满级特斯拉电塔适合对付坦克、空军和落单敌人，但绝对不符合职业安全规范。"
+  },
+  {
+    "index": 474,
+    "key": "Tower_Link_Name",
+    "zh": "连接塔"
+  },
+  {
+    "index": 475,
+    "key": "Tower_Link_ShortDescription",
+    "zh": "两塔相隔一格，构成死亡之门。"
+  },
+  {
+    "index": 476,
+    "key": "Tower_Link_Description1",
+    "zh": "连接塔必须成对建造，中间空一格。它们会构成终点线，生命的终点线。"
+  },
+  {
+    "index": 477,
+    "key": "Tower_Link_Description2",
+    "zh": "连接塔必须成对建造，中间空一格。想钻过这道横杆？终点在地下六尺。"
+  },
+  {
+    "index": 478,
+    "key": "Tower_Link_Description3",
+    "zh": "连接塔必须成对建造，中间空一格。拉起一条晾衣绳，把敌人挂上去晾干。"
+  },
+  {
+    "index": 479,
+    "key": "Tower_Missile_Name",
+    "zh": "导弹塔"
+  },
+  {
+    "index": 480,
+    "key": "Tower_Missile_ShortDescription",
+    "zh": "射程好，范围伤害好，就是好塔。"
+  },
+  {
+    "index": 481,
+    "key": "Tower_Missile_Description1",
+    "zh": "一级导弹塔能炸散敌群和害虫。把导弹塔升满，是可靠的防守策略。"
+  },
+  {
+    "index": 482,
+    "key": "Tower_Missile_Description2",
+    "zh": "二级导弹塔能炸散敌群，导弹还能打到其他塔够不着的空军。"
+  },
+  {
+    "index": 483,
+    "key": "Tower_Missile_Description3",
+    "zh": "三级导弹塔能炸散成群敌军。放在地图前段，能制造高效连击。"
+  },
+  {
+    "index": 484,
+    "key": "Tower_Nuke_Name",
+    "zh": "核弹塔"
+  },
+  {
+    "index": 485,
+    "key": "Tower_Nuke_ShortDescription",
+    "zh": "这回你最好站远一点……"
+  },
+  {
+    "index": 486,
+    "key": "Tower_Nuke_Description1",
+    "zh": "一级核弹塔不太容易打中高速摩托。不过别告诉它，惹怒它可不好。"
+  },
+  {
+    "index": 487,
+    "key": "Tower_Nuke_Description2",
+    "zh": "苏巴实验室拒绝承认二级核弹塔惊人的效能和业内顶尖的保修服务。"
+  },
+  {
+    "index": 488,
+    "key": "Tower_Nuke_Description3",
+    "zh": "我们不喜欢“杀死”这个词。三级核弹塔只是把一切都“打败”得彻彻底底。"
+  },
+  {
+    "index": 489,
+    "key": "Tower_Oil_Name",
+    "zh": "油塔"
+  },
+  {
+    "index": 490,
+    "key": "Tower_Oil_ShortDescription",
+    "zh": "减缓成群敌人。"
+  },
+  {
+    "index": 491,
+    "key": "Tower_Oil_Description1",
+    "zh": "一级油塔能减缓一群单位，但倔强跑兵可以直接穿过。记得升满。"
+  },
+  {
+    "index": 492,
+    "key": "Tower_Oil_Description2",
+    "zh": "二级油塔能减缓敌人、驱动汽车，还能把鸟裹满油污。石油还有什么做不到？"
+  },
+  {
+    "index": 493,
+    "key": "Tower_Oil_Description3",
+    "zh": "三级黏油喷管，让敌人慢下来。像海鸟一样自由吧！……这笑话说早了？"
+  },
+  {
+    "index": 494,
+    "key": "Tower_Plasma_Name",
+    "zh": "等离子塔"
+  },
+  {
+    "index": 495,
+    "key": "Tower_Plasma_ShortDescription",
+    "zh": "与其他等离子塔形成连锁攻击。"
+  },
+  {
+    "index": 496,
+    "key": "Tower_Plasma_Description1",
+    "zh": "等离子塔被等离子球击中后会再次开火。适合长通道入口或网格阵形。"
+  },
+  {
+    "index": 497,
+    "key": "Tower_Plasma_Description2",
+    "zh": "等离子球击中等离子塔会触发射击，不过有短暂冷却，记得带本书等着。"
+  },
+  {
+    "index": 498,
+    "key": "Tower_Plasma_Description3",
+    "zh": "将三级等离子塔排成网格，效果最佳。等离子能清理敌群，还对草坪有益。"
+  },
+  {
+    "index": 499,
+    "key": "Tower_Power_Name",
+    "zh": "增幅塔"
+  },
+  {
+    "index": 500,
+    "key": "Tower_Power_ShortDescription",
+    "zh": "增强相邻防御塔。"
+  },
+  {
+    "index": 501,
+    "key": "Tower_Power_Description1",
+    "zh": "一级增幅塔能大幅增强一座邻近塔，或小幅增强多座塔。"
+  },
+  {
+    "index": 502,
+    "key": "Tower_Power_Description2",
+    "zh": "二级增幅塔也能连接减速塔，但效果不够理想。试试连接特斯拉电塔或火焰塔。"
+  },
+  {
+    "index": 503,
+    "key": "Tower_Power_Description3",
+    "zh": "连接三级增幅塔时要小心，只把它放在格外结实的塔旁边。"
+  },
+  {
+    "index": 504,
+    "key": "Tower_Pyro_Name",
+    "zh": "烈焰塔"
+  },
+  {
+    "index": 505,
+    "key": "Tower_Pyro_ShortDescription",
+    "zh": "高效的火焰范围伤害。"
+  },
+  {
+    "index": 506,
+    "key": "Tower_Pyro_Description1",
+    "zh": "烈焰塔会烧伤附近敌人，防火或太快的除外。试着与辐射塔交替布置。"
+  },
+  {
+    "index": 507,
+    "key": "Tower_Pyro_Description2",
+    "zh": "二级烈焰塔喜欢减速塔，也喜欢烧烤、海滩漫步，以及点燃眼前的一切。"
+  },
+  {
+    "index": 508,
+    "key": "Tower_Pyro_Description3",
+    "zh": "三级烈焰塔能炒热气氛。放在迷宫前段，让敌人一开始就热情高涨。"
+  },
+  {
+    "index": 509,
+    "key": "Tower_Radiation_Name",
+    "zh": "辐射塔"
+  },
+  {
+    "index": 510,
+    "key": "Tower_Radiation_ShortDescription",
+    "zh": "需要一片有毒的雾霾吗？"
+  },
+  {
+    "index": 511,
+    "key": "Tower_Radiation_Description1",
+    "zh": "这座塔擅长区域压制。与烈焰塔交替布置，兼顾防化兵和防火兵。"
+  },
+  {
+    "index": 512,
+    "key": "Tower_Radiation_Description2",
+    "zh": "“脏弹”这个词太难听了。把二级辐射塔当成两亿瓦的舒适日光浴床吧。"
+  },
+  {
+    "index": 513,
+    "key": "Tower_Radiation_Description3",
+    "zh": "苏巴实验室提醒：以任何方式接触三级辐射塔，都会使保修和你的医保失效。"
+  },
+  {
+    "index": 514,
+    "key": "Tower_Railgun_Name",
+    "zh": "电磁轨道炮"
+  },
+  {
+    "index": 515,
+    "key": "Tower_Railgun_ShortDescription",
+    "zh": "射程惊人，伤害惊人，笑容也惊人。"
+  },
+  {
+    "index": 516,
+    "key": "Tower_Railgun_Description1",
+    "zh": "一级轨道炮是精准的清场工具，专吃坦克，还能封锁出口。"
+  },
+  {
+    "index": 517,
+    "key": "Tower_Railgun_Description2",
+    "zh": "二级轨道炮有鹰的眼力和大锤的脑子，唯一缺少的就是一颗心。"
+  },
+  {
+    "index": 518,
+    "key": "Tower_Railgun_Description3",
+    "zh": "终极轨道炮由不锈钢花洒、消防水管……以及所有能塞进原子炉的东西制成。"
+  },
+  {
+    "index": 519,
+    "key": "Tower_Spark_Name",
+    "zh": "火花塔"
+  },
+  {
+    "index": 520,
+    "key": "Tower_Spark_ShortDescription",
+    "zh": "小范围内造成高额伤害。"
+  },
+  {
+    "index": 521,
+    "key": "Tower_Spark_Description1",
+    "zh": "一级火花塔擅长清理拐角和急转弯，放在桥附近尤其有效。"
+  },
+  {
+    "index": 522,
+    "key": "Tower_Spark_Description2",
+    "zh": "火花塔来自航空公司购物目录的传言是假的，不过它的确能打飞机。"
+  },
+  {
+    "index": 523,
+    "key": "Tower_Spark_Description3",
+    "zh": "苏巴实验室设计三级火花塔，就是为了搭配寒冰塔，制造小范围的可爱大混乱。"
+  },
+  {
+    "index": 524,
+    "key": "Tower_Boomkin_Name",
+    "zh": "爆炸南瓜塔"
+  },
+  {
+    "index": 525,
+    "key": "Tower_Boomkin_ShortDescription",
+    "zh": "节日加火焰，等于毁灭南瓜。"
+  },
+  {
+    "index": 526,
+    "key": "Tower_Boomkin_Description1",
+    "zh": "烤南瓜籽！炽热而凌乱的爆炸，专门清理狭窄的急转弯。"
+  },
+  {
+    "index": 527,
+    "key": "Tower_Boomkin_Description2",
+    "zh": "不给糖就捣蛋？你来决定。"
+  },
+  {
+    "index": 528,
+    "key": "Tower_Boomkin_Description3",
+    "zh": "三级爆炸南瓜塔很适合搭配减速塔，是火焰与万圣节的美味组合。"
+  },
+  {
+    "index": 529,
+    "key": "Tower_Polymorph_Name",
+    "zh": "变形塔"
+  },
+  {
+    "index": 530,
+    "key": "Tower_Polymorph_ShortDescription",
+    "zh": "唤醒敌人心中的小绵羊。"
+  },
+  {
+    "index": 531,
+    "key": "Tower_Polymorph_Description1",
+    "zh": "变成会走路的羊杂后，谁都得慢下来。光搞懂四个胃室就得花上好几周。"
+  },
+  {
+    "index": 532,
+    "key": "Tower_Polymorph_Description2",
+    "zh": "苏巴实验室提醒：把敌人变成奶牛前，请先取得签字同意。"
+  },
+  {
+    "index": 533,
+    "key": "Tower_Polymorph_Description3",
+    "zh": "满级变形塔：把手放到达尔文脸上，然后用力推。"
+  },
+  {
+    "index": 534,
+    "key": "Tower_Napalm_Name",
+    "zh": "凝固汽油塔"
+  },
+  {
+    "index": 535,
+    "key": "Tower_Napalm_ShortDescription",
+    "zh": "带来挥之不去的灼烧感。"
+  },
+  {
+    "index": 536,
+    "key": "Tower_Napalm_Description1",
+    "zh": "一级凝固汽油塔对密集敌群极其有效，目前在 157 个国家仍属合法。"
+  },
+  {
+    "index": 537,
+    "key": "Tower_Napalm_Description2",
+    "zh": "二级凝固汽油塔的副作用包括头晕、轻微焦味，以及胜利。"
+  },
+  {
+    "index": 538,
+    "key": "Tower_Napalm_Description3",
+    "zh": "汽油加聚苯乙烯再加苯，等于痛不欲生。三级塔虽不能寸草不生，但也差不多。"
+  },
+  {
+    "index": 539,
+    "key": "Tower_Cannonball_Name",
+    "zh": "加农炮塔"
+  },
+  {
+    "index": 540,
+    "key": "Tower_Cannonball_ShortDescription",
+    "zh": "古典外壳下，弹跳的毁灭恐惧。"
+  },
+  {
+    "index": 541,
+    "key": "Tower_Cannonball_Description1",
+    "zh": "加农炮会向成列敌人发射破坏力十足的弹跳炮弹。跟着弹球一起尖叫吧！"
+  },
+  {
+    "index": 542,
+    "key": "Tower_Cannonball_Description2",
+    "zh": "加农炮有对的一端，也有错的一端。对的在里面，错的指着惹怒它的人。"
+  },
+  {
+    "index": 543,
+    "key": "Tower_Cannonball_Description3",
+    "zh": "三级加农炮多年来击沉了不少海盗。你不是海盗，对吧？"
+  },
+  {
+    "index": 544,
+    "key": "Tower_Link_Slow_Name",
+    "zh": "减速连接塔"
+  },
+  {
+    "index": 545,
+    "key": "Tower_Link_Slow_ShortDescription",
+    "zh": "两塔相隔一格，构成终极减速带。"
+  },
+  {
+    "index": 546,
+    "key": "Tower_Link_Slow_Description1",
+    "zh": "建造两座减速连接塔，中间空一格。见过机场安检队伍的速度吗？没错。"
+  },
+  {
+    "index": 547,
+    "key": "Tower_Link_Slow_Description2",
+    "zh": "减速连接塔也能斜向连接。试着排成锯齿形，扩大覆盖范围。"
+  },
+  {
+    "index": 548,
+    "key": "Tower_Link_Slow_Description3",
+    "zh": "三级减速连接塔虽然昂贵，却是重金可以买到的最有效减速塔。"
+  },
+  {
+    "index": 549,
+    "key": "Tower_MachineGun_Name",
+    "zh": "重机枪塔"
+  },
+  {
+    "index": 550,
+    "key": "Tower_MachineGun_ShortDescription",
+    "zh": "减速、伤害、筑墙，还能满足虚荣心。"
+  },
+  {
+    "index": 551,
+    "key": "Tower_MachineGun_Description1",
+    "zh": "既能高效筑墙，又能提供 40% 减速，是苏巴军防御塔中的瑞士军刀。"
+  },
+  {
+    "index": 552,
+    "key": "Tower_MachineGun_Description2",
+    "zh": "升级重机枪塔会增加伤害，不会加强减速，不过保修期能延长三个月。"
+  },
+  {
+    "index": 553,
+    "key": "Tower_MachineGun_Description3",
+    "zh": "最强的廉价筑墙塔。矮个子里最高的，终究也是最高的！"
+  },
+  {
+    "index": 554,
+    "key": "Tower_Zap_Name",
+    "zh": "连锁电击塔"
+  },
+  {
+    "index": 555,
+    "key": "Tower_Zap_ShortDescription",
+    "zh": "电击一串敌人。"
+  },
+  {
+    "index": 556,
+    "key": "Tower_Zap_Description1",
+    "zh": "一级电击塔能电到两个单位。升级后，可以享受更多电击乐趣。"
+  },
+  {
+    "index": 557,
+    "key": "Tower_Zap_Description2",
+    "zh": "二级电击塔能电到五个单位！没错，按苏巴实验室员工手册的说法，这叫电个痛快。"
+  },
+  {
+    "index": 558,
+    "key": "Tower_Zap_Description3",
+    "zh": "满级电击塔一次击中八个单位！但请分散布置，电击效果不会叠加。"
+  },
+  {
+    "index": 559,
+    "key": "Tower_Sonic_Name",
+    "zh": "音爆塔"
+  },
+  {
+    "index": 560,
+    "key": "Tower_Sonic_ShortDescription",
+    "zh": "愤怒却舒缓的中距离伤害。"
+  },
+  {
+    "index": 561,
+    "key": "Tower_Sonic_Description1",
+    "zh": "一级音爆塔能摧毁敌群、窗户，以及你的听力。"
+  },
+  {
+    "index": 562,
+    "key": "Tower_Sonic_Description2",
+    "zh": "唯一免疫音爆塔的单位是贝多芬。"
+  },
+  {
+    "index": 563,
+    "key": "Tower_Sonic_Description3",
+    "zh": "密集布置三级音爆塔，保证没人能偷偷溜进这场演出。"
+  },
+  {
+    "index": 564,
+    "key": "Element_None",
+    "zh": "属性：无"
+  },
+  {
+    "index": 565,
+    "key": "Element_Fire",
+    "zh": "属性：火焰"
+  },
+  {
+    "index": 566,
+    "key": "Element_Ice",
+    "zh": "属性：寒冰"
+  },
+  {
+    "index": 567,
+    "key": "Element_Lightning",
+    "zh": "属性：雷电"
+  },
+  {
+    "index": 568,
+    "key": "Element_Bullet",
+    "zh": "属性：金属"
+  },
+  {
+    "index": 569,
+    "key": "Element_Explosion",
+    "zh": "属性：爆炸"
+  },
+  {
+    "index": 570,
+    "key": "Element_Biological",
+    "zh": "属性：生化"
+  },
+  {
+    "index": 571,
+    "key": "Fieldguide_Tower_Cost",
+    "zh": "造价：$%d"
+  },
+  {
+    "index": 572,
+    "key": "Fieldguide_Tower_Range",
+    "zh": "射程：%.1f 格"
+  },
+  {
+    "index": 573,
+    "key": "LoadingText01",
+    "zh": "欢迎到 www.fieldrunners2.com 提供反馈。没错，我们每条都会看。"
+  },
+  {
+    "index": 574,
+    "key": "LoadingText02",
+    "zh": "高手提示：阅读高手提示。"
+  },
+  {
+    "index": 575,
+    "key": "LoadingText03",
+    "zh": "卖塔会获得金钱，但也会扣除 2,500 分。"
+  },
+  {
+    "index": 576,
+    "key": "LoadingText04",
+    "zh": "限时挑战不会因漏怪而失败。尽情发挥吧。"
+  },
+  {
+    "index": 577,
+    "key": "LoadingText05",
+    "zh": "限时挑战中，有时放走慢速单位反而能获得更高分数。"
+  },
+  {
+    "index": 578,
+    "key": "LoadingText06",
+    "zh": "还想玩更多？经典的《坚守阵地》仍然在售。不用谢。"
+  },
+  {
+    "index": 579,
+    "key": "LoadingText07",
+    "zh": "在 Twitter 关注 @fieldrunners，了解最新消息！当然，也可以不关注。"
+  },
+  {
+    "index": 580,
+    "key": "LoadingText08",
+    "zh": "殊死坚守：尽可能阻挡敌军，坚持战斗到最后一刻。"
+  },
+  {
+    "index": 581,
+    "key": "LoadingText09",
+    "zh": "游戏保持暂停时，刚放下的塔可以原价卖回。"
+  },
+  {
+    "index": 582,
+    "key": "LoadingText10",
+    "zh": "金币买来防御塔，防御塔买来快乐。"
+  },
+  {
+    "index": 583,
+    "key": "LoadingText11",
+    "zh": "苏巴实验室在 1942 年发明了自动防御塔，和胶带同年诞生。"
+  },
+  {
+    "index": 584,
+    "key": "LoadingText12",
+    "zh": "升级现有防御塔，通常比新建一座更划算。"
+  },
+  {
+    "index": 585,
+    "key": "LoadingText13",
+    "zh": "卖掉用不着的塔，换来急需的金钱。"
+  },
+  {
+    "index": 586,
+    "key": "LoadingText14",
+    "zh": "限时挑战中，加速不会加快倒计时，只会加快你得分。"
+  },
+  {
+    "index": 587,
+    "key": "LoadingText15",
+    "zh": "留一两个道具在手，提防精英单位突然来访。"
+  },
+  {
+    "index": 588,
+    "key": "LoadingText16",
+    "zh": "在 Facebook 关注 Fieldrunners。试着把这句话快速说五遍。"
+  },
+  {
+    "index": 589,
+    "key": "LoadingText17",
+    "zh": "殊死坚守中，没有什么能终止敌军的攻势。"
+  },
+  {
+    "index": 590,
+    "key": "LoadingText18",
+    "zh": "想开始新游戏又保留当前进度？切换 Game Center 账户即可。"
+  },
+  {
+    "index": 591,
+    "key": "LoadingText19",
+    "zh": "年度跑兵游园会最吸引人的项目是玉米迷宫。"
+  },
+  {
+    "index": 592,
+    "key": "LoadingText20",
+    "zh": "跑兵的最高速度是每小时五英里。这是马拉松，不是短跑。"
+  },
+  {
+    "index": 593,
+    "key": "LoadingText21",
+    "zh": "更高难度带来更多分数和星星，可你承受得住额外压力吗？"
+  },
+  {
+    "index": 594,
+    "key": "LoadingText22",
+    "zh": "金币买道具，道具赚星星，星星解锁塔，防御塔带来欢乐。"
+  },
+  {
+    "index": 595,
+    "key": "LoadingText23",
+    "zh": "每张地图都能以英雄难度通关。我们可没瞎说。"
+  },
+  {
+    "index": 596,
+    "key": "LoadingText24",
+    "zh": "胶水上再倒胶水也不会更黏。分散胶水塔，效果更好。"
+  },
+  {
+    "index": 597,
+    "key": "LoadingText25",
+    "zh": "任务卡关了？道具就是你租来的好朋友。"
+  },
+  {
+    "index": 598,
+    "key": "LoadingText26",
+    "zh": "轨道炮：阻止最后一架直升机逃走的好办法。"
+  },
+  {
+    "index": 599,
+    "key": "LoadingText27",
+    "zh": "轨道炮和特斯拉电塔也会波及附近少量单位，对付敌群很有用。"
+  },
+  {
+    "index": 600,
+    "key": "LoadingText28",
+    "zh": "瘟疫塔造成的疾病会在敌军之间传播。"
+  },
+  {
+    "index": 601,
+    "key": "LoadingText29",
+    "zh": "把辐射塔分散开，辐射中毒效果不会叠加。"
+  },
+  {
+    "index": 602,
+    "key": "LoadingText30",
+    "zh": "把毒气塔分散开，敌军不能同时窒息两次。"
+  },
+  {
+    "index": 603,
+    "key": "LoadingText31",
+    "zh": "把瘟疫塔分散开，敌军一次只能染上一种病。"
+  },
+  {
+    "index": 604,
+    "key": "LoadingText32",
+    "zh": "连接塔对经过的单位只电击一次，这种情况下减速塔帮不上忙。"
+  },
+  {
+    "index": 605,
+    "key": "LoadingText33",
+    "zh": "每座塔同时只能连接一座增幅塔。"
+  },
+  {
+    "index": 606,
+    "key": "LoadingText34",
+    "zh": "没错，地雷能炸飞机。放轻松，好好享受游戏吧。"
+  },
+  {
+    "index": 607,
+    "key": "LoadingText35",
+    "zh": "激光塔虽然不是最强的，但连击能赚来海量分数和空袭。"
+  },
+  {
+    "index": 608,
+    "key": "LoadingText36",
+    "zh": "敌军戴头盔不是为了安全，而是为了遮住梳来盖秃顶的头发。"
+  },
+  {
+    "index": 609,
+    "key": "LoadingText37",
+    "zh": "在洞穴里也能呼叫空袭，联军飞行员就是这么厉害。"
+  },
+  {
+    "index": 610,
+    "key": "LoadingText38",
+    "zh": "借助欧米伽 13，时光倒流能回退三波，足够纠正一次失误。"
+  },
+  {
+    "index": 611,
+    "key": "LoadingText39",
+    "zh": "殊死坚守中不能使用时光倒流，没有安全网！"
+  },
+  {
+    "index": 612,
+    "key": "LoadingText40",
+    "zh": "不耐烦地点击屏幕，可以加快加载速度。"
+  },
+  {
+    "index": 613,
+    "key": "LoadingText41",
+    "zh": "其实点击屏幕并不能加快加载速度。"
+  },
+  {
+    "index": 614,
+    "key": "LoadingText42",
+    "zh": "激光塔满级后尤其有效，对付猫也是如此。"
+  },
+  {
+    "index": 615,
+    "key": "LoadingText43",
+    "zh": "增幅塔很少见：升级花费居然比建造还高。"
+  },
+  {
+    "index": 616,
+    "key": "LoadingText44",
+    "zh": "拖出一座塔后改主意了？把它放到不能建造的地方就行。"
+  },
+  {
+    "index": 617,
+    "key": "LoadingText45",
+    "zh": "每个 Game Center 账户都有独立进度，切换账户即可开始新游戏。"
+  },
+  {
+    "index": 618,
+    "key": "LoadingText46",
+    "zh": "你的表现比自己以为的更好，而且你更聪明，发型也更棒。"
+  },
+  {
+    "index": 619,
+    "key": "LoadingText47",
+    "zh": "苏巴小贴士：自 1915 年起，让你的操作闪闪发光。"
+  },
+  {
+    "index": 620,
+    "key": "LoadingText48",
+    "zh": "切换 Game Center 账户，就像换个身份登录。做个全新的人吧。"
+  },
+  {
+    "index": 621,
+    "key": "LoadingText49",
+    "zh": "卡关又心烦？来 www.fieldrunners.com 论坛找同伴诉苦吧！"
+  },
+  {
+    "index": 622,
+    "key": "LoadingText50",
+    "zh": "更高难度会给更多分数、金币和星星。你也许会惊讶于自己的实力。"
+  },
+  {
+    "index": 623,
+    "key": "LoadingText51",
+    "zh": "卡牌套组：集齐全套，就能得到里面的免费玩具！"
+  },
+  {
+    "index": 624,
+    "key": "LoadingText52",
+    "zh": "“十中抽一”真的只消灭十分之一，剩下九个跑兵还在追你。"
+  },
+  {
+    "index": 625,
+    "key": "LoadingText53",
+    "zh": "正在疯狂转动克隆机的手摇柄……"
+  },
+  {
+    "index": 626,
+    "key": "LoadingText54",
+    "zh": "赢得任务才能获得星星；即使失败，你仍能保留金币。"
+  },
+  {
+    "index": 627,
+    "key": "LoadingText55",
+    "zh": "维多利亚十字勋章、功勋十字勋章、“凯旋日”卡牌。骄傲地佩戴最高荣誉吧。"
+  },
+  {
+    "index": 628,
+    "key": "LoadingText56",
+    "zh": "友谊是魔法，克隆也是。自己种出朋友来。"
+  },
+  {
+    "index": 629,
+    "key": "LoadingText57",
+    "zh": "敌军正在秘密升级军事技术：他们开始买五趾鞋了。"
+  },
+  {
+    "index": 630,
+    "key": "LoadingText58",
+    "zh": "制作这个加载画面时，没有一名跑兵受到伤害。"
+  },
+  {
+    "index": 631,
+    "key": "LoadingText59",
+    "zh": "知识就是力量，狂奔的克隆人大军也是。"
+  },
+  {
+    "index": 632,
+    "key": "LoadingText60",
+    "zh": "在任务成功画面，点击黑色横条可以切换分数显示。"
+  },
+  {
+    "index": 633,
+    "key": "LoadingText61",
+    "zh": "放下道具后，点击它可查看详情，或将它收回。"
+  },
+  {
+    "index": 634,
+    "key": "LoadingText62",
+    "zh": "分享你的创作！同时按下主屏幕键和休眠键即可截图。"
+  },
+  {
+    "index": 635,
+    "key": "LoadingText63",
+    "zh": "敌军也是和你一样的大家庭……前提是你家全是疯狂又渴望权力的克隆人。"
+  },
+  {
+    "index": 636,
+    "key": "LoadingText64",
+    "zh": "点击防御塔上的问号，查看信息和策略。知识能帮你解锁乐趣。"
+  },
+  {
+    "index": 637,
+    "key": "LoadingText65",
+    "zh": "跑兵守则一：世界属于我们。若世界不属于我们，请参见第一条。"
+  },
+  {
+    "index": 638,
+    "key": "LoadingText69",
+    "zh": "跑兵守则二：世界属于我们。任何相反的证据也属于我们。"
+  },
+  {
+    "index": 639,
+    "key": "LoadingText66",
+    "zh": "跑兵守则三：永远别低估良好的脚踝支撑。"
+  },
+  {
+    "index": 640,
+    "key": "LoadingText67",
+    "zh": "跑兵守则四：面对危险，最好迎面而上。你先。"
+  },
+  {
+    "index": 641,
+    "key": "LoadingText68",
+    "zh": "跑兵守则五：这不是同伴压力，只是轮到你了。"
+  },
+  {
+    "index": 642,
+    "key": "LoadingText69",
+    "zh": "跑兵守则六：补水、补水、补水。统治世界。再补水。"
+  },
+  {
+    "index": 643,
+    "key": "LoadingText70",
+    "zh": "有桥就用它修出回环路线。没桥？继续往后打。"
+  },
+  {
+    "index": 644,
+    "key": "LoadingText71",
+    "zh": "卡关了？到 www.fieldrunners.com 论坛给我们看看截图。"
+  },
+  {
+    "index": 645,
+    "key": "LoadingText72",
+    "zh": "限时挑战有困难？加速是你的好朋友。"
+  },
+  {
+    "index": 646,
+    "key": "LoadingText73",
+    "zh": "跑兵守则七：禁止再演百老汇。跑兵的康康舞队列虽好看，却让人不安。"
+  },
+  {
+    "index": 647,
+    "key": "LoadingText74",
+    "zh": "跑兵守则八：禁止再办才艺秀。上次踢踏舞差点拆了军营。"
+  },
+  {
+    "index": 648,
+    "key": "LoadingText75",
+    "zh": "由于战时配给，本次加载时间已缩短。"
+  },
+  {
+    "index": 649,
+    "key": "LoadingText76",
+    "zh": "发推分享分数吧！社交一下！而且……每天还能拿 100 金币！"
+  },
+  {
+    "index": 650,
+    "key": "LoadingText77",
+    "zh": "跑兵守则九：公平对待每一位世界公民，统治所有人。"
+  },
+  {
+    "index": 651,
+    "key": "LoadingText78",
+    "zh": "请勿在家尝试建造巨型毁灭防御塔。我们是专业人士。"
+  },
+  {
+    "index": 652,
+    "key": "LoadingText79",
+    "zh": "本游戏发生于谈判破裂之后。先制裁，再上毁灭之塔。"
+  },
+  {
+    "index": 653,
+    "key": "LoadingText80",
+    "zh": "跑兵守则十：脚开始疼时，就改当步行兵。"
+  },
+  {
+    "index": 654,
+    "key": "LoadingText81",
+    "zh": "跑兵守则十一：咱们都是同一口煎锅里的蚂蚁。"
+  },
+  {
+    "index": 655,
+    "key": "LoadingText82",
+    "zh": "点击已连接防御塔上的问号，就能查看增幅塔带来的毁灭效果。"
+  },
+  {
+    "index": 656,
+    "key": "Item_Mine_Name",
+    "zh": "智能地雷"
+  },
+  {
+    "index": 657,
+    "key": "Item_Mine_Description",
+    "zh": "小巧精准，伤害巨大。"
+  },
+  {
+    "index": 658,
+    "key": "Item_Mine_1_Long_Description",
+    "zh": "由一位患有路怒症的苏巴员工研发，智能地雷几乎能终结任何敌人。"
+  },
+  {
+    "index": 659,
+    "key": "Item_Mine_1_Guide_1",
+    "zh": "伤害：90% 生命值"
+  },
+  {
+    "index": 660,
+    "key": "Item_Mine_1_Guide_2",
+    "zh": "范围：一格"
+  },
+  {
+    "index": 661,
+    "key": "Item_Mine_1_Guide_3",
+    "zh": "用途：精准狙击"
+  },
+  {
+    "index": 662,
+    "key": "Item_Mine_1_Guide_4",
+    "zh": "附赠：手提袋"
+  },
+  {
+    "index": 663,
+    "key": "Item_Flu_Name",
+    "zh": "西班牙流感"
+  },
+  {
+    "index": 664,
+    "key": "Item_Flu_Description",
+    "zh": "这种怪病会在跑兵之间传播。"
+  },
+  {
+    "index": 665,
+    "key": "Item_Flu_1_Long_Description",
+    "zh": "1918 年全球流感大流行特别凶猛。幸好，我们还留着一瓶。"
+  },
+  {
+    "index": 666,
+    "key": "Item_Flu_1_Guide_1",
+    "zh": "伤害：100% 生命值"
+  },
+  {
+    "index": 667,
+    "key": "Item_Flu_1_Guide_2",
+    "zh": "持续：五秒"
+  },
+  {
+    "index": 668,
+    "key": "Item_Flu_1_Guide_3",
+    "zh": "用途：敌群"
+  },
+  {
+    "index": 669,
+    "key": "Item_Flu_1_Guide_4",
+    "zh": "气味：黄瓜"
+  },
+  {
+    "index": 670,
+    "key": "Item_Fire_Name",
+    "zh": "烈火喷泉"
+  },
+  {
+    "index": 671,
+    "key": "Item_Fire_Description",
+    "zh": "持续燃烧的伤害地狱。"
+  },
+  {
+    "index": 672,
+    "key": "Item_Fire_Trap_1_Long_Description",
+    "zh": "从末日山装瓶带来，能让敌人在烈焰中跳脚三秒。"
+  },
+  {
+    "index": 673,
+    "key": "Item_Fire_Trap_1_Guide_1",
+    "zh": "伤害：100% 生命值"
+  },
+  {
+    "index": 674,
+    "key": "Item_Fire_Trap_1_Guide_2",
+    "zh": "持续：三秒"
+  },
+  {
+    "index": 675,
+    "key": "Item_Fire_Trap_1_Guide_3",
+    "zh": "用途：敌群"
+  },
+  {
+    "index": 676,
+    "key": "Item_Fire_Trap_1_Guide_4",
+    "zh": "隔热垫：建议配备"
+  },
+  {
+    "index": 677,
+    "key": "Item_Freeze_Name",
+    "zh": "深度冻结"
+  },
+  {
+    "index": 678,
+    "key": "Item_Freeze_Description",
+    "zh": "让一群敌人寸步难行。"
+  },
+  {
+    "index": 679,
+    "key": "Item_Freeze_1_Long_Description",
+    "zh": "这块纪念版冻伤冰块，可使附近所有单位减速 90%！"
+  },
+  {
+    "index": 680,
+    "key": "Item_Freeze_1_Guide_1",
+    "zh": "减速：90%"
+  },
+  {
+    "index": 681,
+    "key": "Item_Freeze_1_Guide_2",
+    "zh": "持续：七秒"
+  },
+  {
+    "index": 682,
+    "key": "Item_Freeze_1_Guide_3",
+    "zh": "用途：快速单位"
+  },
+  {
+    "index": 683,
+    "key": "Item_Freeze_1_Guide_4",
+    "zh": "冰棒棍另售"
+  },
+  {
+    "index": 684,
+    "key": "Item_Rewind_Name",
+    "zh": "时光倒流"
+  },
+  {
+    "index": 685,
+    "key": "Item_Rewind_Description",
+    "zh": "出了差错？回退三波。"
+  },
+  {
+    "index": 686,
+    "key": "Item_Rewind_1_Long_Description",
+    "zh": "快点读完这段说明，因为它马上就会变成从未发生过的事……"
+  },
+  {
+    "index": 687,
+    "key": "Item_Rewind_1_Guide_1",
+    "zh": "时间变化：三波"
+  },
+  {
+    "index": 688,
+    "key": "Item_Rewind_1_Guide_2",
+    "zh": "用途：纠正失误"
+  },
+  {
+    "index": 689,
+    "key": "Item_Rewind_1_Guide_3",
+    "zh": "因果关系：已破坏"
+  },
+  {
+    "index": 690,
+    "key": "Item_Rewind_1_Guide_4",
+    "zh": "现实：已撤销"
+  },
+  {
+    "index": 691,
+    "key": "Item_Snowman_Name",
+    "zh": "冰霜终结者"
+  },
+  {
+    "index": 692,
+    "key": "Item_Snowman_Description",
+    "zh": "快乐的慢吞吞雪人，减速效果真出众。"
+  },
+  {
+    "index": 693,
+    "key": "Item_Snowman_1_Long_Description",
+    "zh": "用我们加工过的节日黏液，把不高兴的敌人变成喜气洋洋的雪人！"
+  },
+  {
+    "index": 694,
+    "key": "Item_Snowman_1_Guide_1",
+    "zh": "减速：95%"
+  },
+  {
+    "index": 695,
+    "key": "Item_Snowman_1_Guide_2",
+    "zh": "持续：七秒"
+  },
+  {
+    "index": 696,
+    "key": "Item_Snowman_1_Guide_3",
+    "zh": "用途：快速单位"
+  },
+  {
+    "index": 697,
+    "key": "Item_Snowman_1_Guide_4",
+    "zh": "无视：权威"
+  },
+  {
+    "index": 698,
+    "key": "Item_SantaStrike_Name",
+    "zh": "圣诞空袭"
+  },
+  {
+    "index": 699,
+    "key": "Item_SantaStrike_Description",
+    "zh": "一排跑兵？让雪橇收拾他们。"
+  },
+  {
+    "index": 700,
+    "key": "Item_SantaStrike_1_Long_Description",
+    "zh": "乖跑兵得到礼物，坏跑兵得到集束炸弹。"
+  },
+  {
+    "index": 701,
+    "key": "Item_SantaStrike_1_Guide_1",
+    "zh": "伤害：100% 生命值"
+  },
+  {
+    "index": 702,
+    "key": "Item_SantaStrike_1_Guide_2",
+    "zh": "范围：完整三排"
+  },
+  {
+    "index": 703,
+    "key": "Item_SantaStrike_1_Guide_3",
+    "zh": "速度：803 英里/时"
+  },
+  {
+    "index": 704,
+    "key": "Item_SantaStrike_1_Guide_4",
+    "zh": "* 坚决保持欢乐"
+  },
+  {
+    "index": 705,
+    "key": "ItemPackSweetFFFTitle",
+    "zh": "甜蜜三乘三礼包"
+  },
+  {
+    "index": 706,
+    "key": "ItemPackSweetFFFDescription",
+    "zh": "冰冻、烈火、流感各三个"
+  },
+  {
+    "index": 707,
+    "key": "ItemPackSweet1FFFTitle",
+    "zh": "终极礼包"
+  },
+  {
+    "index": 708,
+    "key": "ItemPackSweet1FFFDescription",
+    "zh": "冰冻、烈火、流感各九个"
+  },
+  {
+    "index": 709,
+    "key": "ItemPackSweet2FFFTitle",
+    "zh": "超级礼包"
+  },
+  {
+    "index": 710,
+    "key": "ItemPackSweet2FFFDescription",
+    "zh": "圣诞空袭、时光倒流、冰霜终结者各三个"
+  },
+  {
+    "index": 711,
+    "key": "TutorialIntroTitle",
+    "zh": "快速指南"
+  },
+  {
+    "index": 712,
+    "key": "TutorialIntroSoloText",
+    "zh": "拖出防御塔……"
+  },
+  {
+    "index": 713,
+    "key": "TutorialIntroGroupText",
+    "zh": "……建造漫长的迷宫"
+  },
+  {
+    "index": 714,
+    "key": "TutorialOutroText",
+    "zh": "干得好！我们暂时得离开家乡，但总会回来的。先去收复草原！"
+  },
+  {
+    "index": 715,
+    "key": "TutorialGatlingText",
+    "zh": "保卫家园！拖出几座加特林机枪塔。"
+  },
+  {
+    "index": 716,
+    "key": "TutorialUpgradeText",
+    "zh": "升级防御塔！点击塔，再点击升级按钮。"
+  },
+  {
+    "index": 717,
+    "key": "TutorialSlowText",
+    "zh": "胶水塔可以减缓飞奔的敌军。"
+  },
+  {
+    "index": 718,
+    "key": "TutorialMazeText",
+    "zh": "修建漫长曲折的通道，让敌人承受更多伤害。"
+  },
+  {
+    "index": 719,
+    "key": "TutorialYouRockText",
+    "zh": "你做得真棒！"
+  },
+  {
+    "index": 720,
+    "key": "TutorialUpgradeRemindText",
+    "zh": "别忘了升级胶水塔！"
+  },
+  {
+    "index": 721,
+    "key": "TutorialHealthText",
+    "zh": "建造更多防御塔！"
+  },
+  {
+    "index": 722,
+    "key": "TutorialRangeText",
+    "zh": "点击防御塔可以查看射程，就是那个绿色圆圈。"
+  },
+  {
+    "index": 723,
+    "key": "TutorialMissileText",
+    "zh": "这些导弹射程远、范围伤害好，值得攒钱购买。"
+  },
+  {
+    "index": 724,
+    "key": "TutorialItemTitle",
+    "zh": "什么是道具？"
+  },
+  {
+    "index": 725,
+    "key": "TutorialItemSoloText",
+    "zh": "下一张地图可以使用道具。"
+  },
+  {
+    "index": 726,
+    "key": "TutorialItemGroupText",
+    "zh": "道具是使用次数有限的救命利器。"
+  },
+  {
+    "index": 727,
+    "key": "TipD2LoopTitle",
+    "zh": "利用桥梁形成回环"
+  },
+  {
+    "index": 728,
+    "key": "TipD2LoopText",
+    "zh": "能想出怎样利用这座桥，让敌人绕一圈吗？"
+  },
+  {
+    "index": 729,
+    "key": "TipD5LoopTitle",
+    "zh": "还记得回环路线吗？"
+  },
+  {
+    "index": 730,
+    "key": "TipItemsTitle",
+    "zh": "带上道具！"
+  },
+  {
+    "index": 731,
+    "key": "TipItemsText",
+    "zh": "用金币可以购买强力道具。游玩任务就能赚取金币。"
+  },
+  {
+    "index": 732,
+    "key": "TipPuzzleTitle",
+    "zh": "解谜地图"
+  },
+  {
+    "index": 733,
+    "key": "TipPuzzleText",
+    "zh": "解谜地图不按常规出牌。开动脑筋，破解这些难题。"
+  },
+  {
+    "index": 734,
+    "key": "TipC1StepsTitle",
+    "zh": "一次一个"
+  },
+  {
+    "index": 735,
+    "key": "TipC1StepsText",
+    "zh": "每波将敌军引向一道新门。"
+  },
+  {
+    "index": 736,
+    "key": "TipC2SellTitle",
+    "zh": "出售防御塔"
+  },
+  {
+    "index": 737,
+    "key": "TipC2SellText",
+    "zh": "“人人都靠卖点什么过活。”——罗伯特·路易斯·史蒂文森"
+  },
+  {
+    "index": 738,
+    "key": "TipC2TimingTitle",
+    "zh": "时机决定一切"
+  },
+  {
+    "index": 739,
+    "key": "TipC2TimingText",
+    "zh": "等待合适时机，再放下防御塔。"
+  },
+  {
+    "index": 740,
+    "key": "TipC2For1Title",
+    "zh": "一箭双雕"
+  },
+  {
+    "index": 741,
+    "key": "TipC2For1Text",
+    "zh": "用对付一个敌人的代价，收拾两个……"
+  },
+  {
+    "index": 742,
+    "key": "TipSuddenDeathTitle",
+    "zh": "殊死坚守"
+  },
+  {
+    "index": 743,
+    "key": "TipSuddenDeathText",
+    "zh": "这是一张殊死坚守地图，防线终将被突破。击败指定数量的敌人即可过关，然后战斗到最后。"
+  },
+  {
+    "index": 744,
+    "key": "TipTimeTrialTitle",
+    "zh": "限时挑战"
+  },
+  {
+    "index": 745,
+    "key": "TipTimeTrialText",
+    "zh": "在时间耗尽前，尽可能击败更多敌军。……时间耗尽应该只是个比喻。"
+  },
+  {
+    "index": 746,
+    "key": "TipTowersTitle",
+    "zh": "装备防御塔！"
+  },
+  {
+    "index": 747,
+    "key": "TipTowersText",
+    "zh": "点击图标，为本次任务装备防御塔。"
+  },
+  {
+    "index": 748,
+    "key": "TipTowers2Text",
+    "zh": "赚取的星星越多，能获得的防御塔就越多。"
+  },
+  {
+    "index": 749,
+    "key": "TipUpgradeText",
+    "zh": "持续升级防御塔。与新建相比，升级通常更划算。"
+  },
+  {
+    "index": 750,
+    "key": "TipMoneyText",
+    "zh": "金钱买不到爱情，却能买塔和升级。花起来！"
+  },
+  {
+    "index": 751,
+    "key": "TipC2Link1",
+    "zh": "哎呀！没打中。"
+  },
+  {
+    "index": 752,
+    "key": "TipC2Link2",
+    "zh": "把敌军引入光束。"
+  },
+  {
+    "index": 753,
+    "key": "TipC2Link3",
+    "zh": "两道连接光束？在第二波内让敌人两道都碰到。"
+  },
+  {
+    "index": 754,
+    "key": "TipL1Title",
+    "zh": "火焰最爱跑兵"
+  },
+  {
+    "index": 755,
+    "key": "TipC3MineTitle",
+    "zh": "警告：神秘雷区"
+  },
+  {
+    "index": 756,
+    "key": "TipC3Mine1",
+    "zh": "两条路一样长？单位会向上走。"
+  },
+  {
+    "index": 757,
+    "key": "TipC3Mine2",
+    "zh": "这里向下更短。"
+  },
+  {
+    "index": 758,
+    "key": "TipC3Mine3",
+    "zh": "但逐个放置时，每一步向上都更短。"
+  },
+  {
+    "index": 759,
+    "key": "TipCoinTitleText",
+    "zh": "缺钱了吗？"
+  },
+  {
+    "index": 760,
+    "key": "TipCoinText",
+    "zh": "准备大显身手？到金币商店弄点闪亮的硬通货吧！"
+  },
+  {
+    "index": 761,
+    "key": "TallyMissionCompleteText",
+    "zh": "任务成功！"
+  },
+  {
+    "index": 762,
+    "key": "TallyMissionFailedText",
+    "zh": "任务失败"
+  },
+  {
+    "index": 763,
+    "key": "TallyHighScoreText",
+    "zh": "新高分！"
+  },
+  {
+    "index": 764,
+    "key": "TallyDefeatedText",
+    "zh": "已击败"
+  },
+  {
+    "index": 765,
+    "key": "TallyTimeText",
+    "zh": "用时 X:00"
+  },
+  {
+    "index": 766,
+    "key": "EndlessText",
+    "zh": "无尽"
+  },
+  {
+    "index": 767,
+    "key": "TallyGoTallyText",
+    "zh": "完成"
+  },
+  {
+    "index": 768,
+    "key": "TallyRunnersDefeatedText",
+    "zh": "击败敌军"
+  },
+  {
+    "index": 769,
+    "key": "TallyCombosText",
+    "zh": "连击击倒"
+  },
+  {
+    "index": 770,
+    "key": "TallyMegaCombosText",
+    "zh": "超级连击"
+  },
+  {
+    "index": 771,
+    "key": "TallyDifficultyText",
+    "zh": "难度"
+  },
+  {
+    "index": 772,
+    "key": "TallyPenaltiesText",
+    "zh": "卖塔扣分"
+  },
+  {
+    "index": 773,
+    "key": "TwitterScore1",
+    "zh": "我在《坚守阵地2》拿到了 %s 分，地图是 %s！来挑战吧！"
+  },
+  {
+    "index": 774,
+    "key": "TwitterScore2",
+    "zh": "我在《坚守阵地2》拿到了 %s 分，地图是 %s！我就是更帅的爱因斯坦！"
+  },
+  {
+    "index": 775,
+    "key": "TwitterScore3",
+    "zh": "我在《坚守阵地2》拿到了漂亮的 %s 分，地图是 %s！放马过来！"
+  },
+  {
+    "index": 776,
+    "key": "TwitterScore4",
+    "zh": "%s 分，地图 %s：《坚守阵地2》。来超越我吧！"
+  },
+  {
+    "index": 777,
+    "key": "TwitterScore5",
+    "zh": "坐稳了吗？快坐稳！我拿到了 %s 分，地图是 %s！来超越我吧！"
+  },
+  {
+    "index": 778,
+    "key": "TwitterScore6",
+    "zh": "我拿到了令人心动的 %s 分，地图是 %s！来挑战吧！"
+  },
+  {
+    "index": 779,
+    "key": "TwitterScore7",
+    "zh": "我在《坚守阵地2》拿到了让人脚软的 %s 分，地图是 %s！来超越我吧！"
+  },
+  {
+    "index": 780,
+    "key": "TwitterScore8",
+    "zh": "别被我惊人的 %s 分迷晕了，地图是 %s！"
+  },
+  {
+    "index": 781,
+    "key": "TwitterScore9",
+    "zh": "%s 分，地图 %s，《坚守阵地2》帅到极致！来挑战吧！"
+  },
+  {
+    "index": 782,
+    "key": "TwitterScore10",
+    "zh": "%s 分，地图 %s！还能说什么？我的智慧和美貌一样出众。"
+  },
+  {
+    "index": 783,
+    "key": "TwitterScore11",
+    "zh": "对我好一点，就让你看看我的 %s 分，地图是 %s。"
+  },
+  {
+    "index": 784,
+    "key": "TwitterScore12",
+    "zh": "%s 分，地图 %s！我就是猫咪的睡衣，还有它那顶花边帽！"
+  },
+  {
+    "index": 785,
+    "key": "TwitterScore13",
+    "zh": "%s 分，地图 %s！“厉害到发光”算一个词吗？因为我就是。"
+  },
+  {
+    "index": 786,
+    "key": "TwitterScore14",
+    "zh": "像烈焰猛虎扑倒酷炫机器人一样，我拿到了 %s 分，地图是 %s。"
+  },
+  {
+    "index": 787,
+    "key": "TwitterScore15",
+    "zh": "%s 分，地图 %s！我就是装满培根的神龙战车！"
+  },
+  {
+    "index": 788,
+    "key": "NewsTickerDefaultText",
+    "zh": "新兵，欢迎来到《坚守阵地2》！"
+  },
+  {
+    "index": 789,
+    "key": "GruntText",
+    "zh": "步兵"
+  },
+  {
+    "index": 790,
+    "key": "IronText",
+    "zh": "钢铁"
+  },
+  {
+    "index": 791,
+    "key": "BirdText",
+    "zh": "飞鸟"
+  },
+  {
+    "index": 792,
+    "key": "WhirlyText",
+    "zh": "旋翼"
+  },
+  {
+    "index": 793,
+    "key": "FunText",
+    "zh": "趣味"
+  },
+  {
+    "index": 794,
+    "key": "WorldText",
+    "zh": "世界"
+  },
+  {
+    "index": 795,
+    "key": "HardcoreText",
+    "zh": "硬核"
+  },
+  {
+    "index": 796,
+    "key": "ID00Name",
+    "zh": "头等舱"
+  },
+  {
+    "index": 797,
+    "key": "ID00Description",
+    "zh": "在一项任务中获得一百万分。"
+  },
+  {
+    "index": 798,
+    "key": "ID01Name",
+    "zh": "豪华套房"
+  },
+  {
+    "index": 799,
+    "key": "ID01Description",
+    "zh": "在一项任务中获得惊人的五百万分。"
+  },
+  {
+    "index": 800,
+    "key": "ID02Name",
+    "zh": "巨无霸连击"
+  },
+  {
+    "index": 801,
+    "key": "ID02Description",
+    "zh": "一次连击击败 20 个单位。轰个痛快！"
+  },
+  {
+    "index": 802,
+    "key": "ID03Name",
+    "zh": "绝不放弃……"
+  },
+  {
+    "index": 803,
+    "key": "ID03Description",
+    "zh": "存活 150 波。"
+  },
+  {
+    "index": 804,
+    "key": "ID04Name",
+    "zh": "绝不投降！"
+  },
+  {
+    "index": 805,
+    "key": "ID04Description",
+    "zh": "在英雄难度存活 200 波。"
+  },
+  {
+    "index": 806,
+    "key": "ID05Name",
+    "zh": "效率为王"
+  },
+  {
+    "index": 807,
+    "key": "ID05Description",
+    "zh": "在生存任务中不建塔，撑过十波。道具会帮上忙。"
+  },
+  {
+    "index": 808,
+    "key": "ID06Name",
+    "zh": "雷霆万钧"
+  },
+  {
+    "index": 809,
+    "key": "ID06Description",
+    "zh": "呼叫支援！在一项任务中发动七次空袭。"
+  },
+  {
+    "index": 810,
+    "key": "ID07Name",
+    "zh": "拒绝减速"
+  },
+  {
+    "index": 811,
+    "key": "ID07Description",
+    "zh": "不使用减速塔，完成一项生存任务。"
+  },
+  {
+    "index": 812,
+    "key": "ID08Name",
+    "zh": "星光绽放"
+  },
+  {
+    "index": 813,
+    "key": "ID08Description",
+    "zh": "获得 30 颗星星。"
+  },
+  {
+    "index": 814,
+    "key": "ID09Name",
+    "zh": "二星将军"
+  },
+  {
+    "index": 815,
+    "key": "ID09Description",
+    "zh": "在全部原版地图获得两颗星星，不包含追加内容。"
+  },
+  {
+    "index": 816,
+    "key": "ID10Name",
+    "zh": "三星将军"
+  },
+  {
+    "index": 817,
+    "key": "ID10Description",
+    "zh": "在全部原版地图获得三颗星星，不包含追加内容。"
+  },
+  {
+    "index": 818,
+    "key": "ID11Name",
+    "zh": "老兵将军"
+  },
+  {
+    "index": 819,
+    "key": "ID11Description",
+    "zh": "完成全部原版地图，不包含追加内容。"
+  },
+  {
+    "index": 820,
+    "key": "ID12Name",
+    "zh": "战争红利"
+  },
+  {
+    "index": 821,
+    "key": "ID12Description",
+    "zh": "累计获得 10,000 金币，无需同时持有。"
+  },
+  {
+    "index": 822,
+    "key": "ID13Name",
+    "zh": "连击链"
+  },
+  {
+    "index": 823,
+    "key": "ID13Description",
+    "zh": "连续完成 20 次连击。你火力全开！"
+  },
+  {
+    "index": 824,
+    "key": "ID14Name",
+    "zh": "一分钟战士"
+  },
+  {
+    "index": 825,
+    "key": "ID14Description",
+    "zh": "在一分钟内完成一项任务。"
+  },
+  {
+    "index": 826,
+    "key": "ID15Name",
+    "zh": "赏金猎人"
+  },
+  {
+    "index": 827,
+    "key": "ID15Description",
+    "zh": "击败原版地图中的每一种精英单位，不包含追加内容。"
+  },
+  {
+    "index": 828,
+    "key": "ID16Name",
+    "zh": "赤裸裸的生意"
+  },
+  {
+    "index": 829,
+    "key": "ID16Description",
+    "zh": "买点什么吧！我们家孩子还等着买鞋呢！"
+  },
+  {
+    "index": 830,
+    "key": "ID17Name",
+    "zh": "道具达人"
+  },
+  {
+    "index": 831,
+    "key": "ID17Description",
+    "zh": "使用一个道具，同时击败十个单位。"
+  },
+  {
+    "index": 832,
+    "key": "ID18Name",
+    "zh": "奇爱博士"
+  },
+  {
+    "index": 833,
+    "key": "ID18Description",
+    "zh": "炸毁一架 S-17 天鲸，同时击败十个单位。"
+  },
+  {
+    "index": 834,
+    "key": "ID19Name",
+    "zh": "正中靶心"
+  },
+  {
+    "index": 835,
+    "key": "ID19Description",
+    "zh": "炸毁一辆 V2 卡车，同时击败十个单位。"
+  },
+  {
+    "index": 836,
+    "key": "ID20Name",
+    "zh": "连接生死线"
+  },
+  {
+    "index": 837,
+    "key": "ID20Description",
+    "zh": "使用一对连接塔，接连击败十个单位。"
+  },
+  {
+    "index": 838,
+    "key": "ID21Name",
+    "zh": "胜利之日"
+  },
+  {
+    "index": 839,
+    "key": "ID21Description",
+    "zh": "在 24 小时内完成每个关卡，不包含追加内容。"
+  },
+  {
+    "index": 840,
+    "key": "ID22Name",
+    "zh": "凯旋之日"
+  },
+  {
+    "index": 841,
+    "key": "ID22Description",
+    "zh": "在 24 小时内，以英雄难度完成每个关卡。不重开、不失败、不退出。"
+  },
+  {
+    "index": 842,
+    "key": "ID23Name",
+    "zh": "服役之旅"
+  },
+  {
+    "index": 843,
+    "key": "ID23Description",
+    "zh": "连续六个月，每周至少玩一次。没错，我们认真的。"
+  },
+  {
+    "index": 844,
+    "key": "ID24Name",
+    "zh": "大富翁"
+  },
+  {
+    "index": 845,
+    "key": "ID24Description",
+    "zh": "在一项任务中不卖塔，攒下 $500。"
+  },
+  {
+    "index": 846,
+    "key": "ID25Name",
+    "zh": "树木机甲"
+  },
+  {
+    "index": 847,
+    "key": "ID25Description",
+    "zh": "击退草原的树木机甲首领。"
+  },
+  {
+    "index": 848,
+    "key": "ID26Name",
+    "zh": "古墓机甲"
+  },
+  {
+    "index": 849,
+    "key": "ID26Description",
+    "zh": "击退旱地的古墓机甲首领。"
+  },
+  {
+    "index": 850,
+    "key": "ID27Name",
+    "zh": "章鱼机甲"
+  },
+  {
+    "index": 851,
+    "key": "ID27Description",
+    "zh": "挡住熔岩地带的章鱼机甲。没错，我们知道它只有六条腿。"
+  },
+  {
+    "index": 852,
+    "key": "ID28Name",
+    "zh": "终极机甲"
+  },
+  {
+    "index": 853,
+    "key": "ID28Description",
+    "zh": "击败城市关卡及《坚守阵地2》的终极机甲。"
+  },
+  {
+    "index": 854,
+    "key": "ID29Name",
+    "zh": "步兵套组"
+  },
+  {
+    "index": 855,
+    "key": "ID29Description",
+    "zh": "集齐步兵套组，奖励 1,000 金币！"
+  },
+  {
+    "index": 856,
+    "key": "ID30Name",
+    "zh": "钢铁套组"
+  },
+  {
+    "index": 857,
+    "key": "ID30Description",
+    "zh": "集齐钢铁套组，奖励 20 个时光倒流！"
+  },
+  {
+    "index": 858,
+    "key": "ID31Name",
+    "zh": "飞鸟套组"
+  },
+  {
+    "index": 859,
+    "key": "ID31Description",
+    "zh": "集齐飞鸟套组，奖励 25 个深度冻结！"
+  },
+  {
+    "index": 860,
+    "key": "ID32Name",
+    "zh": "旋翼套组"
+  },
+  {
+    "index": 861,
+    "key": "ID32Description",
+    "zh": "集齐旋翼套组，奖励 30 枚智能地雷！"
+  },
+  {
+    "index": 862,
+    "key": "ID33Name",
+    "zh": "趣味套组"
+  },
+  {
+    "index": 863,
+    "key": "ID33Description",
+    "zh": "集齐趣味套组，奖励 35 个西班牙流感！"
+  },
+  {
+    "index": 864,
+    "key": "ID34Name",
+    "zh": "世界套组"
+  },
+  {
+    "index": 865,
+    "key": "ID34Description",
+    "zh": "集齐世界套组，奖励 40 个烈火喷泉！"
+  },
+  {
+    "index": 866,
+    "key": "ID35Name",
+    "zh": "硬核套组"
+  },
+  {
+    "index": 867,
+    "key": "ID35Description",
+    "zh": "集齐硬核套组，获得不朽荣誉，以及 2,000 金币。"
+  },
+  {
+    "index": 868,
+    "key": "GruntDeckName",
+    "zh": "步兵"
+  },
+  {
+    "index": 869,
+    "key": "IronDeckName",
+    "zh": "钢铁"
+  },
+  {
+    "index": 870,
+    "key": "BirdDeckName",
+    "zh": "飞鸟"
+  },
+  {
+    "index": 871,
+    "key": "WhirlyDeckName",
+    "zh": "旋翼"
+  },
+  {
+    "index": 872,
+    "key": "FunDeckName",
+    "zh": "趣味"
+  },
+  {
+    "index": 873,
+    "key": "WorldDeckName",
+    "zh": "世界"
+  },
+  {
+    "index": 874,
+    "key": "HardcoreDeckName",
+    "zh": "硬核"
+  },
+  {
+    "index": 875,
+    "key": "DefeatCardPlural",
+    "zh": "击败 %d 个%s"
+  },
+  {
+    "index": 876,
+    "key": "DefeatCardSingle",
+    "zh": "击败 %d 个%s"
+  },
+  {
+    "index": 877,
+    "key": "SubabucksName",
+    "zh": "金币"
+  },
+  {
+    "index": 878,
+    "key": "CoinFree",
+    "zh": "免费加赠 %d%%！"
+  },
+  {
+    "index": 879,
+    "key": "BuyCoinsText",
+    "zh": "购买金币"
+  },
+  {
+    "index": 880,
+    "key": "BackText",
+    "zh": "返回"
+  },
+  {
+    "index": 881,
+    "key": "StartText",
+    "zh": "开始"
+  },
+  {
+    "index": 882,
+    "key": "NextText",
+    "zh": "下一步"
+  },
+  {
+    "index": 883,
+    "key": "PurchasingTitle",
+    "zh": "请稍候"
+  },
+  {
+    "index": 884,
+    "key": "PurchasingText",
+    "zh": "正在派跑兵前往 App Store。"
+  },
+  {
+    "index": 885,
+    "key": "PurchasingPulse",
+    "zh": "正在连接……"
+  },
+  {
+    "index": 886,
+    "key": "CantReachMarketText",
+    "zh": "无法连接"
+  },
+  {
+    "index": 887,
+    "key": "CantReachMarketDescription",
+    "zh": "跑兵无法抵达 App Store。请检查网络连接及 App Store 设置。"
+  },
+  {
+    "index": 888,
+    "key": "UnknownErrorText",
+    "zh": "未知错误"
+  },
+  {
+    "index": 889,
+    "key": "UnknownErrorDescription",
+    "zh": "你发现了一个新错误！如果它反复出现，请发送邮件至 bugs@subatomicstudios.com。"
+  },
+  {
+    "index": 890,
+    "key": "TransactionFailText",
+    "zh": "未能完成"
+  },
+  {
+    "index": 891,
+    "key": "TransactionFailDescription",
+    "zh": "交易失败。请检查网络连接后重试。"
+  },
+  {
+    "index": 892,
+    "key": "TransactionRestoredText",
+    "zh": "购买已恢复"
+  },
+  {
+    "index": 893,
+    "key": "TransactionRestoredDescription",
+    "zh": "你以前购买的内容回来了！恭喜你购买了"
+  },
+  {
+    "index": 894,
+    "key": "StoreFreeAppDescription",
+    "zh": "《坚守阵地2》精彩绝伦。立即购买！"
+  },
+  {
+    "index": 895,
+    "key": "StoreFreePriceiPhone",
+    "zh": "$2.99"
+  },
+  {
+    "index": 896,
+    "key": "StoreFreePriceiPad",
+    "zh": "$7.99"
+  },
+  {
+    "index": 897,
+    "key": "BoomkinUpsellTitle",
+    "zh": "全新爆炸南瓜塔"
+  },
+  {
+    "index": 898,
+    "key": "BoomkinUpsellText",
+    "zh": "现在就用金币获取！"
+  },
+  {
+    "index": 899,
+    "key": "BoomkinDiscountText",
+    "zh": "万圣节特惠"
+  },
+  {
+    "index": 900,
+    "key": "BoomkinDiscountText1",
+    "zh": "七五折"
+  },
+  {
+    "index": 901,
+    "key": "PolymorphGetTitle1",
+    "zh": "全新防御塔！"
+  },
+  {
+    "index": 902,
+    "key": "PolymorphGetDescription1",
+    "zh": "你有《坚守阵地2》免费版？送你一座变形塔！进度也已转移，此奖励仅发放一次。"
+  },
+  {
+    "index": 903,
+    "key": "PolymorphGetTitle2",
+    "zh": "免费变形塔！"
+  },
+  {
+    "index": 904,
+    "key": "PolymorphGetDescription2",
+    "zh": "获取《坚守阵地2》免费版，即可免费获得变形塔。免费！"
+  },
+  {
+    "index": 905,
+    "key": "PolymorphGetDescriptionButton2",
+    "zh": "获取免费版"
+  },
+  {
+    "index": 906,
+    "key": "PolymorphGetTitle3",
+    "zh": "全新防御塔！"
+  },
+  {
+    "index": 907,
+    "key": "PolymorphGetDescription3",
+    "zh": "你购买了《坚守阵地2》？太棒了！送你一座变形塔。"
+  },
+  {
+    "index": 908,
+    "key": "PolymorphGetTitle4",
+    "zh": "获取变形塔！"
+  },
+  {
+    "index": 909,
+    "key": "PolymorphGetDescription4",
+    "zh": "购买《坚守阵地2》完整版，我们就免费赠送变形塔！"
+  },
+  {
+    "index": 910,
+    "key": "EndlessUpsellText",
+    "zh": "依靠你的计谋和巨型毁灭之塔，在无尽攻势中生存下去。"
+  },
+  {
+    "index": 911,
+    "key": "TimedUpsellTitle",
+    "zh": "等不及了？"
+  },
+  {
+    "index": 912,
+    "key": "TimedUpsellText",
+    "zh": "为什么还要等待？升级至完整版，立即游玩此任务。"
+  },
+  {
+    "index": 913,
+    "key": "TowerUpsellUnlocksText",
+    "zh": "喷火南瓜灯？电磁轨道炮？没错！二十多种毁灭性武器任你选择。"
+  },
+  {
+    "index": 914,
+    "key": "CoinStoreUpsellTitle",
+    "zh": "去完整版购物？"
+  },
+  {
+    "index": 915,
+    "key": "CoinStoreUpsellText",
+    "zh": "你的进度已转移至完整版。请在那里购买金币，后续购买的金币无法继续转移。"
+  },
+  {
+    "index": 916,
+    "key": "LavaflowUpsellText",
+    "zh": "这些超级反派并不满足于征服世界。升级游戏，把闹腾的跑兵打得落花流水！"
+  },
+  {
+    "index": 917,
+    "key": "DrylandsUpsellText",
+    "zh": "在这片沙漠天堂，迎接新地形带来的脑力挑战。你比跑兵聪明吗？我相信你。"
+  },
+  {
+    "index": 918,
+    "key": "GrasslandsUpsellText",
+    "zh": "未使用：用史诗武器守护草原，比如……投掷蜂巢的塔！你能拯救山谷吗？当然能。"
+  },
+  {
+    "index": 919,
+    "key": "CityUpsellText",
+    "zh": "未使用：迎接家乡关卡的烧脑谜题。你比跑兵聪明吗？我相信你。"
+  },
+  {
+    "index": 920,
+    "key": "Day2UpsellTitle",
+    "zh": "新任务开放！"
+  },
+  {
+    "index": 921,
+    "key": "Day2UpsellText1",
+    "zh": "士兵，准备好"
+  },
+  {
+    "index": 922,
+    "key": "Day2UpsellText2",
+    "zh": "是时候在新关卡迎战敌军了！"
+  },
+  {
+    "index": 923,
+    "key": "Day3UpsellTitle",
+    "zh": "新任务开放！"
+  },
+  {
+    "index": 924,
+    "key": "Day3UpsellText1",
+    "zh": "士兵，准备好"
+  },
+  {
+    "index": 925,
+    "key": "Day3UpsellText2",
+    "zh": "是时候在全新关卡迎战敌军了！"
+  },
+  {
+    "index": 926,
+    "key": "ContentCompleteUpsellText1",
+    "zh": "“2012 年最佳 iOS 游戏之一！”"
+  },
+  {
+    "index": 927,
+    "key": "ContentCompleteUpsellText1B",
+    "zh": "——IGN"
+  },
+  {
+    "index": 928,
+    "key": "ContentCompleteUpsellText2",
+    "zh": "“我们终于等到了续作！”"
+  },
+  {
+    "index": 929,
+    "key": "ContentCompleteUpsellText2B",
+    "zh": "——《纽约时报》"
+  },
+  {
+    "index": 930,
+    "key": "ContentCompleteUpsellText3",
+    "zh": "海量关卡，数小时激战！"
+  },
+  {
+    "index": 931,
+    "key": "ContentCompleteUpsellText4",
+    "zh": "超过二十种可升级的独特武器！"
+  },
+  {
+    "index": 932,
+    "key": "DifficultyUpsellTitle",
+    "zh": "升级至完整版"
+  },
+  {
+    "index": 933,
+    "key": "DifficultyUpsellText",
+    "zh": "征服英雄难度，赢取更强的塔、更高的分数和滚滚金币。"
+  },
+  {
+    "index": 934,
+    "key": "LeaderboardUpsellText",
+    "zh": "挑战全世界，或只与朋友一较高下！"
+  },
+  {
+    "index": 935,
+    "key": "AchievementUpsellTextA",
+    "zh": "你获得了一项成就。升级至完整版即可解锁。"
+  },
+  {
+    "index": 936,
+    "key": "AchievementUpsellTextB",
+    "zh": "这项成就尚未解锁，升级至完整版即可查看。"
+  },
+  {
+    "index": 937,
+    "key": "Upsell_Trailer_Button",
+    "zh": "观看预告片"
+  },
+  {
+    "index": 938,
+    "key": "UpgradeButtonText",
+    "zh": "立即升级！"
+  },
+  {
+    "index": 939,
+    "key": "UniversalUpsellTitle",
+    "zh": "升级至完整版"
+  },
+  {
+    "index": 940,
+    "key": "Progress_Upsell",
+    "zh": "你的进度将会保留。"
+  },
+  {
+    "index": 941,
+    "key": "ReminderTowersText",
+    "zh": "你终于买得起了："
+  },
+  {
+    "index": 942,
+    "key": "ReminderItemText",
+    "zh": "你的金币已足够购买道具。"
+  },
+  {
+    "index": 943,
+    "key": "ReminderTitle",
+    "zh": "犒劳自己"
+  },
+  {
+    "index": 944,
+    "key": "CreditsArtText",
+    "zh": "美术"
+  },
+  {
+    "index": 945,
+    "key": "CreditsAudioText",
+    "zh": "音频"
+  },
+  {
+    "index": 946,
+    "key": "CreditsDesignText",
+    "zh": "设计"
+  },
+  {
+    "index": 947,
+    "key": "CreditsEngineeringText",
+    "zh": "程序开发"
+  },
+  {
+    "index": 948,
+    "key": "CreditsPublicRelationsText",
+    "zh": "公共关系"
+  },
+  {
+    "index": 949,
+    "key": "CreditsProductionText",
+    "zh": "制作"
+  },
+  {
+    "index": 950,
+    "key": "CreditsQAText",
+    "zh": "质量保证"
+  },
+  {
+    "index": 951,
+    "key": "CreditsPlaytestersText",
+    "zh": "试玩测试"
+  },
+  {
+    "index": 952,
+    "key": "CreditsSpecialThanksText",
+    "zh": "特别鸣谢"
+  },
+  {
+    "index": 953,
+    "key": "CreditsLegalText",
+    "zh": "法律事务"
+  },
+  {
+    "index": 954,
+    "key": "CreditsAdditionalDevelopmentText",
+    "zh": "额外开发"
+  },
+  {
+    "index": 955,
+    "key": "CreditsAppleLegalText",
+    "zh": "App Store 是 Apple Inc. 的商标。"
+  },
+  {
+    "index": 956,
+    "key": "CreditsKeyboard1Text",
+    "zh": "制作《坚守阵地2》时，没有键盘受到伤害。"
+  },
+  {
+    "index": 957,
+    "key": "CreditsKeyboard2Text",
+    "zh": "……其实有五把被枪击了。不过那是它们自找的。"
+  },
+  {
+    "index": 958,
+    "key": "CreditsTopText",
+    "zh": "Subatomic Studios 全体成员感谢你的游玩！"
+  },
+  {
+    "index": 959,
+    "key": "Enemy_Soldier_Commander_Name",
+    "zh": "未使用：指挥官"
+  },
+  {
+    "index": 960,
+    "key": "Enemy_Soldier_Commander_Description",
+    "zh": "未使用：立正！这位指挥官命令所有人加快脚步，跑步前进！"
+  },
+  {
+    "index": 961,
+    "key": "Enemy_Soldier_Commander_Card",
+    "zh": "如果看到这段文字，请报告错误"
+  },
+  {
+    "index": 962,
+    "key": "Enemy_Air_Helicopter_Transport_Name",
+    "zh": "未使用：运输直升机"
+  },
+  {
+    "index": 963,
+    "key": "Enemy_Air_Helicopter_Transport_Description",
+    "zh": "未使用：在直升机找到你之前，赶快登机。"
+  },
+  {
+    "index": 964,
+    "key": "Enemy_Air_Helicopter_Transport_Card",
+    "zh": "“保持桨叶向上、起落架向上、希望向上，保险额度也向上。”"
+  },
+  {
+    "index": 965,
+    "key": "Enemy_Air_Plane_Dropship_Heavy_Name",
+    "zh": "未使用：空投运输机"
+  },
+  {
+    "index": 966,
+    "key": "Enemy_Air_Plane_Dropship_Heavy_Description",
+    "zh": "未使用：你不会以为这架运输机是独自来的吧？"
+  },
+  {
+    "index": 967,
+    "key": "Enemy_Air_Plane_Dropship_Heavy_Card",
+    "zh": "“我还以为降落伞是你带的！”"
+  },
+  {
+    "index": 968,
+    "key": "Grasslands_Map6Name",
+    "zh": "未使用：首领：树木机甲"
+  },
+  {
+    "index": 969,
+    "key": "Grasslands_Map6Description",
+    "zh": "未使用：麻烦的根源！逐一摧毁树木机甲的部件，把敌军彻底赶出草原。"
+  },
+  {
+    "index": 970,
+    "key": "Drylands_Map6Name",
+    "zh": "未使用：首领：古墓机甲"
+  },
+  {
+    "index": 971,
+    "key": "Drylands_Map6Description",
+    "zh": "未使用：这首领可不好对付。尽量集中火力，同时用防御塔清出更多空间。"
+  },
+  {
+    "index": 972,
+    "key": "Lavaflow_Map6Name",
+    "zh": "未使用：首领：章鱼机甲"
+  },
+  {
+    "index": 973,
+    "key": "Lavaflow_Map6Description",
+    "zh": "未使用：终极决战！敌人按顺时针顺序出现……也许你还真能活下来。"
+  },
+  {
+    "index": 974,
+    "key": "City_Map3Name",
+    "zh": "未使用：第三关：另一座塔"
+  },
+  {
+    "index": 975,
+    "key": "City_Map3Description",
+    "zh": "未使用：该休个小假了，不是吗？"
+  },
+  {
+    "index": 976,
+    "key": "Lavaflow_Map3Name",
+    "zh": "未使用：辛辣蘸料"
+  },
+  {
+    "index": 977,
+    "key": "Lavaflow_Map3Description",
+    "zh": "未使用：这关似乎没有防火兵，该开烧烤派对了！"
+  },
+  {
+    "index": 978,
+    "key": "City_Map7Name",
+    "zh": "未使用：首领：终极机甲"
+  },
+  {
+    "index": 979,
+    "key": "City_Map7Description",
+    "zh": "未使用：城市第七关说明"
+  },
+  {
+    "index": 980,
+    "key": "CreateProfileText",
+    "zh": "未使用：创建档案："
+  },
+  {
+    "index": 981,
+    "key": "ProfilesText",
+    "zh": "未使用：档案"
+  },
+  {
+    "index": 982,
+    "key": "SubabucksDescription",
+    "zh": "金币买来道具，道具赚取星星，星星解锁防御塔，防御塔带来幸福。"
+  },
+  {
+    "index": 983,
+    "key": "SubabucksFirstName",
+    "zh": "1,000 苏巴币"
+  },
+  {
+    "index": 984,
+    "key": "SubabucksSecondName",
+    "zh": "5,000 苏巴币"
+  },
+  {
+    "index": 985,
+    "key": "SubabucksThirdName",
+    "zh": "10,000 苏巴币"
+  },
+  {
+    "index": 986,
+    "key": "SubabucksFourthName",
+    "zh": "50,000 苏巴币"
+  }
+]

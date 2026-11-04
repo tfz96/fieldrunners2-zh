@@ -1,0 +1,9 @@
+{
+  "name": "fieldrunners2-zh",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "python -m ruff check .",
+    "test": "python -m unittest discover -s tests -v"
+  }
+}

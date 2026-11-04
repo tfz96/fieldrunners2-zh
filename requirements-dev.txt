@@ -1,0 +1,5 @@
+capstone==5.0.7
+fonttools>=4.60,<5
+pefile==2024.8.26
+pyinstaller>=6.16,<7
+ruff>=0.14,<1

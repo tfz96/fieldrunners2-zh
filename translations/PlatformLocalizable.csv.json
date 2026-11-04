@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "key": "DisplayOptionsText",
+    "zh": "显示设置"
+  },
+  {
+    "index": 1,
+    "key": "DisplayText",
+    "zh": "显示模式"
+  },
+  {
+    "index": 2,
+    "key": "WindowedText",
+    "zh": "窗口"
+  },
+  {
+    "index": 3,
+    "key": "FullscreenText",
+    "zh": "全屏"
+  },
+  {
+    "index": 4,
+    "key": "TapToContinue",
+    "zh": "点击继续"
+  },
+  {
+    "index": 5,
+    "key": "TapToCollect",
+    "zh": "点击领取"
+  },
+  {
+    "index": 6,
+    "key": "DeleteProfileText",
+    "zh": "要清空《坚守阵地2》的全部进度吗？此操作无法撤销。"
+  },
+  {
+    "index": 7,
+    "key": "QuitAppText",
+    "zh": "退出游戏？"
+  },
+  {
+    "index": 8,
+    "key": "DeleteProfileText2",
+    "zh": "真的要从头再来吗？点击“否”即可保留当前游戏进度。"
+  },
+  {
+    "index": 9,
+    "key": "FullTowersPromptText",
+    "zh": "栏位已满！点击下方托盘，卸下一些防御塔。"
+  },
+  {
+    "index": 10,
+    "key": "FullItemsPromptText",
+    "zh": "栏位已满！点击下方托盘，卸下一些道具。"
+  },
+  {
+    "index": 11,
+    "key": "SignInGameCenterText",
+    "zh": "想查看全球排名？请登录 Steam。"
+  },
+  {
+    "index": 12,
+    "key": "LoadingText18",
+    "zh": "需要快速退出？试试 Esc 键。"
+  },
+  {
+    "index": 13,
+    "key": "LoadingText40",
+    "zh": "不耐烦地点击屏幕，可以加快加载速度。"
+  },
+  {
+    "index": 14,
+    "key": "LoadingText41",
+    "zh": "其实点击屏幕并不能加快加载速度。"
+  },
+  {
+    "index": 15,
+    "key": "LoadingText45",
+    "zh": "右键可以取消放置防御塔。当然，也可以不取消。"
+  },
+  {
+    "index": 16,
+    "key": "LoadingText60",
+    "zh": "在任务成功画面，点击黑色横条可以切换分数显示。"
+  },
+  {
+    "index": 17,
+    "key": "LoadingText61",
+    "zh": "放下道具后，点击它可查看详情，或将它收回。"
+  },
+  {
+    "index": 18,
+    "key": "LoadingText82",
+    "zh": "点击已连接防御塔上的问号，就能查看增幅塔带来的毁灭效果。"
+  },
+  {
+    "index": 19,
+    "key": "LoadingText62",
+    "zh": "分享你的创作！按 F12 即可截图。"
+  },
+  {
+    "index": 20,
+    "key": "LoadingText48",
+    "zh": "Twelve 是最大的单音节英文数字。又学到知识了……"
+  },
+  {
+    "index": 21,
+    "key": "TutorialUpgradeText",
+    "zh": "升级防御塔！点击塔，再点击升级按钮。"
+  },
+  {
+    "index": 22,
+    "key": "TutorialRangeText",
+    "zh": "点击防御塔可以查看射程，就是那个绿色圆圈。"
+  },
+  {
+    "index": 23,
+    "key": "TipTowersText",
+    "zh": "点击图标，为本次任务装备防御塔。"
+  }
+]
